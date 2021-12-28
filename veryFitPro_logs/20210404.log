@@ -1,0 +1,164 @@
+P    [2021-04-04 18:50:34.795+0200]        [dAndSave            ]    [(AbstractHttpManager.java:304)#run]requestMethod------------>onResponse:true
+P    [2021-04-04 18:50:36.139+0200]        [dAndSave            ]    [(NovateHttpManager.java:77)#getRequestString]getRequestString------------>subUrl:api/device/blacklist,isGet:true,parameter {}
+P    [2021-04-04 18:50:36.147+0200]        [dAndSave            ]    [(NovateHttpManager.java:94)#getRequestJsonString]getRequestJsonString------------>subUrl:appVersion/getAvailableVersionInfo,isGet:false,parameter {
+    "phoneModel": "SM-A715F",
+    "os": 1,
+    "languageCode": 5,
+    "userId": -1,
+    "currentVersion": 390
+}
+P    [2021-04-04 18:50:36.156+0200]        [dAndSave            ]    [(NovateHttpManager.java:94)#getRequestJsonString]getRequestJsonString------------>subUrl:firmware/getLatestV2,isGet:false,parameter {mobileBrand=SM-A715F, gender=1, os=1, firmwareId=313, appVersionCode=390, version=33, age=23, mac=E7:40:B8:61:56:5E}
+P    [2021-04-04 18:50:36.198+0200]        [dAndSave            ]    [(NovateHttpManager.java:77)#getRequestString]getRequestString------------>subUrl:/user/login,isGet:false,parameter {area=Europe, password=da39a3ee5e6b4b0d3255bfef95601890afd80709, account=}
+P    [2021-04-04 18:50:36.448+0200]        [dAndSave            ]    [(NovateHttpManager.java:413)#onNext]onNext------------>{
+    "code": 1,
+    "data": [
+        {
+            "deviceId": "7114",
+            "bluetoothName": "Colorfit Pro 3"
+        },
+        {
+            "deviceId": "7209",
+            "bluetoothName": "Colorfit Pro 2 Oxy"
+        },
+        {
+            "deviceId": "7130",
+            "bluetoothName": "Active+ II"
+        },
+        {
+            "deviceId": "7131",
+            "bluetoothName": "Ulefone Watch Pro"
+        },
+        {
+            "deviceId": "7136",
+            "bluetoothName": "WL-W8800MZ"
+        },
+        {
+            "deviceId": "7142",
+            "bluetoothName": "Cubitt CT2 Pro"
+        },
+        {
+            "deviceId": "379",
+            "bluetoothName": "ID206"
+        },
+        {
+            "deviceId": "354",
+            "bluetoothName": "GT Band"
+        },
+        {
+            "deviceId": "353",
+            "bluetoothName": "ID217G"
+        },
+        {
+            "deviceId": "392",
+            "bluetoothName": "GT01"
+        },
+        {
+            "deviceId": "381",
+            "bluetoothName": "ID217"
+        },
+        {
+            "deviceId": "7092",
+            "bluetoothName": "ID205L-P"
+        },
+        {
+            "deviceId": "389",
+            "bluetoothName": "ID217G"
+        },
+        {
+            "deviceId": "7205",
+            "bluetoothName": "Ulefone Watch Pro"
+        },
+        {
+            "deviceId": "7184",
+            "bluetoothName": "ID205L-P"
+        },
+        {
+            "deviceId": "380",
+            "bluetoothName": "GT01-A"
+        },
+        {
+            "deviceId": "7224",
+            "bluetoothName": "GT3"
+        },
+        {
+            "deviceId": "7200",
+            "bluetoothName": "Orafit Mega "
+        },
+        {
+            "deviceId": "7235",
+            "bluetoothName": "DG CS2Pro"
+        },
+        {
+            "deviceId": "7236",
+            "bluetoothName": "DG  Band"
+        },
+        {
+            "deviceId": "7237",
+            "bluetoothName": "DG  CR1Pro  GPS"
+        },
+        {
+            "deviceId": "7245",
+            "bluetoothName": "Doopro Band"
+        },
+        {
+            "deviceId": "7244",
+            "bluetoothName": "Doopro Watch S1Pro）"
+        },
+        {
+            "deviceId": "7246",
+            "bluetoothName": "Doopro GT"
+        },
+        {
+            "deviceId": "351",
+            "bluetoothName": "ID205L-P"
+        },
+        {
+            "deviceId": "7243",
+            "bluetoothName": "JmSmart PRO XL"
+        },
+        {
+            "deviceId": "7202",
+            "bluetoothName": "Pop"
+        },
+        {
+            "deviceId": "7201",
+            "bluetoothName": "Pop"
+        },
+        {
+            "deviceId": "336",
+            "bluetoothName": "GT01"
+        },
+        {
+            "deviceId": "932",
+            "bluetoothName": "GT01"
+        }
+    ],
+    "message": "查询成功"
+}
+P    [2021-04-04 18:50:36.449+0200]        [dAndSave            ]    [(ScanDevicePresenter.java:584)#onSuccess]获取服务器手环黑名单的数据成功
+P    [2021-04-04 18:50:36.450+0200]        [dAndSave            ]    [(ScanDevicePresenter.java:589)#onSuccess]newBlueListString = [{
+    "bluetoothName": "Colorfit Pro 3",
+    "deviceId": "7114"
+}
+P    [2021-04-04 18:50:36.450+0200]        [dAndSave            ]    [(NovateHttpManager.java:413)#onNext]onNext------------>{
+    "code": 1,
+    "data": null,
+    "message": "查询成功"
+}
+P    [2021-04-04 18:50:36.453+0200]        [dAndSave            ]    [(NovateHttpManager.java:413)#onNext]onNext------------>{
+    "code": 10010,
+    "data": null,
+    "message": "账号或者密码为空"
+}
+P    [2021-04-04 18:50:36.453+0200]        [dAndSave            ]    [(LoginOrRegisterPresenter.java:521)#onSuccess]从阿里云服务器登录:{
+    "code": 10010,
+    "data": null,
+    "message": "账号或者密码为空"
+}
+P    [2021-04-04 18:50:36.523+0200]        [dAndSave            ]    [(NovateHttpManager.java:413)#onNext]onNext------------>{
+    "code": 1,
+    "data": null,
+    "message": "查询成功"
+}
+P    [2021-04-04 18:51:02.566+0200]        [dAndSave            ]    [(NovateHttpManager.java:392)#upload]upload------------>subUrl:api/events/log,filePathMap: filePathMap is null ,parameter {dateTime=1617555062564, appVersion=3.2.8, otaVersion=33, module=USER, mobileType=SM-A715F, timeZone=Europe/Rome, eventType=ACTIVE_USER, versionName=3.2.8, locale=it_IT, userId=c5b559932add4435b21003a10eb1a959, deviceName=YG-SW01, deviceId=0, mac=E7:40:B8:61:56:5E, mobileBrand=samsung, osVersion=10, osType=2, userType=GUEST}
+P    [2021-04-04 18:51:02.662+0200]        [dAndSave            ]    [(AbstractHttpManager.java:304)#run]requestMethod------------>onResponse:true

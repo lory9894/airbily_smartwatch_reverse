@@ -1,0 +1,34 @@
+attende notifica sull'handler 0x0015 e scrive sull'handler 0x0018.usando gatttool però bisogna scrivere 0100 (notifica) sull'handler 0016...... (credo serva a dire all'orologio che voglio ricevere i dati che poi leggerò su 0x0015)
+i dati sono in little endian, quindi e5 07 va letto 07 e5 (ma lo si può trasformare in array di byte e leggerlo come little endian)
+
+
+2021-04-04 18:50:43,191394 sono gli healthSportData (codice di richiesta 0803010000)
+0803 (header) 01 (numero messaggio) 0c (dimensione)  e507 (07e5 = 2021) 04 (mese) 04 (giorno) [00 0f 4c 20 00 00 00] (proprio non so, 0f ) [fc b4 00 20] (non lo so ma ieri erano uguali, potrebbe essere GMT 02)
+0803 02 (messaggio 2) 12 (dim) a3 54 00 00 (passi totali)da 04 00 00(calorie) a1 3e 00 00 (distanza percorsa oggi [m]) 66 2b 00 00 (durata attività fisica totale oggi)
+
+2021-04-04 18:50:43,731243 dati sul sonno.
+richiesta 0804010000, sempre su 0x0018
+0804 (header e tipo di dato 04=sleep) 01 (n° messaggio) 0c (len) e5070404 (sempre data) 07 (ora di sveglia) 38 (minuti di sveglia) f8 01 (minuti di sonno) 13 04(boh) 00 00 fc b4 00 20 (solito footer sconosciuto)
+
+08040209 (header,n° e len) 0a (numero di fasi sonno leggero) 09 (numero fasi sonno pesante) 00 (numero fasi sonno sveglio) 74 01 (minuti sonno leggero) 8400 (minuti sonno pesante ) 00 (minuti sonno veglia? perche sono 2 byte e non 4?) fc b400 20 (tail) ecb40020 (credo sia solo un filler)
+
+seguono tutte le fasi di sonno (in questo caso 19) così strutturate: [1,2,3] (sveglio,leggero,pesante) [minuti] (durata di questo ciclo)
+
+08040310 (header, n° e len) 02 (tipo di sonno) 12 (durata ciclo di sonno) 0326 (tipo di ciclo e durata) 0218 (uguale) 030c (uguale) 0217 0307 0208 0309.
+
+ci sono quindi fasi/8 messaggi, i messaggi sono di max lunghezza 32 byte, quindi 16 coppie esadecimali quindi 8 coppie tipo/durata. infine c'è il solito messaggio di conclusa comunicazione 08 ee 03
+
+2021-04-04 18:50:44.046081 dati attività fisica
+richiesta 0807010000
+nel primo pacchetto vengono passati una marea di dati inutili (i threshold per considerare un certo battito warmap, aerobico, etc...)
+0807010ce5070404 (header, len, data) 0500 (startTime, che significa?) 46(silentHeart, che significa?) a8001c0000fcb40020 (il resto non lo so)
+
+il secondo pacchetto continene un riassunto della giornata:
+08070211 6c (burnFatThreshold) 7d (aerobicThreshold) a2 (limitTreshold) 1b 00 (minuti fatBurned) 06 00 (minuti aerobico) 00 00 (minuti anaerobico) 5a (warmupTreshold) 67 00 (wamup mins) 90 (anaerobicThreshold) 00 00 (anaerobicMin) 00 (boh)
+
+esattamente come per il sonno seguono poi le coppie battito/offset.
+
+quindi 08070310 00 (offset. 00=00:00)49 (battito 49=73) 05 (05=00:05) 4c (4c = 76 BPM) 05 (00:10) 4e (78 BP78 BPM) 064c054e054b06440545
+sempre fino al messaggio di conclusa comunicazione 08 ee 03
+
+con il codice 09060100 viene richiesta l'attività svolta oggi (di seguito l'analisi). non so cosa succede se oggi sono state svolte 2 attività o 0
