@@ -1,0 +1,10 @@
+P    [2021-04-04 18:50:37.175+0200]        [dAndSave            ]    [(LocationGaodePresenter.java:116)#onLocationChanged]onLocationChanged----:LocationMessage{
+    "city": "Rivoli",
+    "accurac": 25,
+    "speed": "0.00",
+    "country": "Italy",
+    "totalDistance": "0",
+    "data": "LatLngBean{latitude=45.070156, longitude=7.50219, currentTimeMillis=null}",
+    "gpsAccuracyStatus": 1
+}
+P    [2021-04-04 18:50:37.175+0200]        [dAndSave            ]    [(BaseLocationPresenter.java:123)#onLocationChanged]定位成功耗时:981ms

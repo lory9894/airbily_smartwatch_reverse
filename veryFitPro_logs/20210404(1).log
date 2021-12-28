@@ -1,0 +1,181 @@
+P    [2021-04-04 18:50:36.346+0200]        [dAndSave            ]    [(CacheHelper.java:506)#refreshTodayCache]refreshTodayCache 刷新当天缓存
+P    [2021-04-04 18:50:36.391+0200]        [dAndSave            ]    [(CacheHelper.java:531)#refreshTodayCache]数据库取到的值sleepList是 = null
+P    [2021-04-04 18:50:39.573+0200]        [dAndSave            ]    [(CacheHelper.java:506)#refreshTodayCache]refreshTodayCache 刷新当天缓存
+P    [2021-04-04 18:50:39.578+0200]        [dAndSave            ]    [(CacheHelper.java:531)#refreshTodayCache]数据库取到的值sleepList是 = null
+P    [2021-04-04 18:50:43.978+0200]        [dAndSave            ]    [(BleSdkDataConvertHandler.java:154)#convertSleepData]存储到数据库的睡眠数据是：ProHealthSleep{isUploaded=false, sleepDataId=null, macAddress='E7:40:B8:61:56:5E', year=2021, month=4, day=4, sleepEndedTimeH=7, sleepEndedTimeM=56, totalSleepMinutes=504, lightSleepCount=10, deepSleepCount=9, awakeCount=0, lightSleepMinutes=372, deepSleepMinutes=132, sleepScore=0, date=Sun Apr 04 00:00:00 GMT+02:00 2021}
+P    [2021-04-04 18:50:46.567+0200]        [dAndSave            ]    [(BleSdkDataConvertHandler.java:154)#convertSleepData]存储到数据库的睡眠数据是：ProHealthSleep{isUploaded=false, sleepDataId=null, macAddress='E7:40:B8:61:56:5E', year=2021, month=4, day=3, sleepEndedTimeH=8, sleepEndedTimeM=17, totalSleepMinutes=450, lightSleepCount=6, deepSleepCount=5, awakeCount=0, lightSleepMinutes=341, deepSleepMinutes=109, sleepScore=0, date=Sat Apr 03 00:00:00 GMT+02:00 2021}
+P    [2021-04-04 18:51:02.591+0200]        [dAndSave            ]    [(CacheHelper.java:819)#getHealthSleepItemByDate]2021-04-04,获取到数据库的睡眠数据 = []
+P    [2021-04-04 18:51:02.608+0200]        [dAndSave            ]    [(TimeLineSleepChart.java:319)#setDatas]************首页时间图表拿到的数据如下*************
+P    [2021-04-04 18:51:02.609+0200]        [dAndSave            ]    [(TimeLineSleepChart.java:320)#setDatas]this.sleepData = ProHealthSleep{isUploaded=false, sleepDataId=97, macAddress='E7:40:B8:61:56:5E', year=2021, month=4, day=4, sleepEndedTimeH=7, sleepEndedTimeM=56, totalSleepMinutes=504, lightSleepCount=10, deepSleepCount=9, awakeCount=0, lightSleepMinutes=372, deepSleepMinutes=132, sleepScore=0, date=Sun Apr 04 00:00:00 GMT+02:00 2021}
+P    [2021-04-04 18:51:02.611+0200]        [dAndSave            ]    [(TimeLineSleepChart.java:321)#setDatas]this.sleepItems = [ProHealthSleepItem{
+    "isUploaded": false,
+    "sleepDataId": 2932,
+    "macAddress": "E7:40:B8:61:56:5E",
+    "year": 2021,
+    "month": 4,
+    "day": 4,
+    "sleepEndedTimeH": 7,
+    "sleepEndedTimeM": 56,
+    "offsetMinute": 18,
+    "sleepStatus": 2,
+    "date": null
+}
+P    [2021-04-04 18:51:02.625+0200]        [dAndSave            ]    [(TimeLineSleepChart.java:319)#setDatas]************首页时间图表拿到的数据如下*************
+P    [2021-04-04 18:51:02.626+0200]        [dAndSave            ]    [(TimeLineSleepChart.java:320)#setDatas]this.sleepData = ProHealthSleep{isUploaded=false, sleepDataId=97, macAddress='E7:40:B8:61:56:5E', year=2021, month=4, day=4, sleepEndedTimeH=7, sleepEndedTimeM=56, totalSleepMinutes=504, lightSleepCount=10, deepSleepCount=9, awakeCount=0, lightSleepMinutes=372, deepSleepMinutes=132, sleepScore=0, date=Sun Apr 04 00:00:00 GMT+02:00 2021}
+P    [2021-04-04 18:51:02.628+0200]        [dAndSave            ]    [(TimeLineSleepChart.java:321)#setDatas]this.sleepItems = [ProHealthSleepItem{
+    "isUploaded": false,
+    "sleepDataId": 2932,
+    "macAddress": "E7:40:B8:61:56:5E",
+    "year": 2021,
+    "month": 4,
+    "day": 4,
+    "sleepEndedTimeH": 7,
+    "sleepEndedTimeM": 56,
+    "offsetMinute": 18,
+    "sleepStatus": 2,
+    "date": null
+}
+P    [2021-04-04 18:51:06.812+0200]        [dAndSave            ]    [(TimeLineSleepChart.java:319)#setDatas]************首页时间图表拿到的数据如下*************
+P    [2021-04-04 18:51:06.814+0200]        [dAndSave            ]    [(TimeLineSleepChart.java:320)#setDatas]this.sleepData = ProHealthSleep{isUploaded=false, sleepDataId=97, macAddress='E7:40:B8:61:56:5E', year=2021, month=4, day=4, sleepEndedTimeH=7, sleepEndedTimeM=56, totalSleepMinutes=504, lightSleepCount=10, deepSleepCount=9, awakeCount=0, lightSleepMinutes=372, deepSleepMinutes=132, sleepScore=0, date=Sun Apr 04 00:00:00 GMT+02:00 2021}
+P    [2021-04-04 18:51:06.816+0200]        [dAndSave            ]    [(TimeLineSleepChart.java:321)#setDatas]this.sleepItems = [ProHealthSleepItem{
+    "isUploaded": false,
+    "sleepDataId": 2932,
+    "macAddress": "E7:40:B8:61:56:5E",
+    "year": 2021,
+    "month": 4,
+    "day": 4,
+    "sleepEndedTimeH": 7,
+    "sleepEndedTimeM": 56,
+    "offsetMinute": 18,
+    "sleepStatus": 2,
+    "date": null
+}
+P    [2021-04-04 18:51:14.270+0200]        [dAndSave            ]    [(CacheHelper.java:823)#getHealthSleepItemByDate]2021-04-04,获取到缓存的睡眠数据[[ProHealthSleepItem{
+    "isUploaded": false,
+    "sleepDataId": 2932,
+    "macAddress": "E7:40:B8:61:56:5E",
+    "year": 2021,
+    "month": 4,
+    "day": 4,
+    "sleepEndedTimeH": 7,
+    "sleepEndedTimeM": 56,
+    "offsetMinute": 18,
+    "sleepStatus": 2,
+    "date": null
+}
+P    [2021-04-04 18:51:14.278+0200]        [dAndSave            ]    [(CacheHelper.java:823)#getHealthSleepItemByDate]2021-04-04,获取到缓存的睡眠数据[[ProHealthSleepItem{
+    "isUploaded": false,
+    "sleepDataId": 2932,
+    "macAddress": "E7:40:B8:61:56:5E",
+    "year": 2021,
+    "month": 4,
+    "day": 4,
+    "sleepEndedTimeH": 7,
+    "sleepEndedTimeM": 56,
+    "offsetMinute": 18,
+    "sleepStatus": 2,
+    "date": null
+}
+P    [2021-04-04 18:51:14.288+0200]        [dAndSave            ]    [(TimeLineSleepChart.java:319)#setDatas]************首页时间图表拿到的数据如下*************
+P    [2021-04-04 18:51:14.289+0200]        [dAndSave            ]    [(TimeLineSleepChart.java:320)#setDatas]this.sleepData = ProHealthSleep{isUploaded=false, sleepDataId=97, macAddress='E7:40:B8:61:56:5E', year=2021, month=4, day=4, sleepEndedTimeH=7, sleepEndedTimeM=56, totalSleepMinutes=504, lightSleepCount=10, deepSleepCount=9, awakeCount=0, lightSleepMinutes=372, deepSleepMinutes=132, sleepScore=0, date=Sun Apr 04 00:00:00 GMT+02:00 2021}
+P    [2021-04-04 18:51:14.290+0200]        [dAndSave            ]    [(TimeLineSleepChart.java:321)#setDatas]this.sleepItems = [ProHealthSleepItem{
+    "isUploaded": false,
+    "sleepDataId": 2932,
+    "macAddress": "E7:40:B8:61:56:5E",
+    "year": 2021,
+    "month": 4,
+    "day": 4,
+    "sleepEndedTimeH": 7,
+    "sleepEndedTimeM": 56,
+    "offsetMinute": 18,
+    "sleepStatus": 2,
+    "date": null
+}
+P    [2021-04-04 18:51:14.300+0200]        [dAndSave            ]    [(TimeLineSleepChart.java:319)#setDatas]************首页时间图表拿到的数据如下*************
+P    [2021-04-04 18:51:14.301+0200]        [dAndSave            ]    [(TimeLineSleepChart.java:320)#setDatas]this.sleepData = ProHealthSleep{isUploaded=false, sleepDataId=97, macAddress='E7:40:B8:61:56:5E', year=2021, month=4, day=4, sleepEndedTimeH=7, sleepEndedTimeM=56, totalSleepMinutes=504, lightSleepCount=10, deepSleepCount=9, awakeCount=0, lightSleepMinutes=372, deepSleepMinutes=132, sleepScore=0, date=Sun Apr 04 00:00:00 GMT+02:00 2021}
+P    [2021-04-04 18:51:14.302+0200]        [dAndSave            ]    [(TimeLineSleepChart.java:321)#setDatas]this.sleepItems = [ProHealthSleepItem{
+    "isUploaded": false,
+    "sleepDataId": 2932,
+    "macAddress": "E7:40:B8:61:56:5E",
+    "year": 2021,
+    "month": 4,
+    "day": 4,
+    "sleepEndedTimeH": 7,
+    "sleepEndedTimeM": 56,
+    "offsetMinute": 18,
+    "sleepStatus": 2,
+    "date": null
+}
+P    [2021-04-04 18:51:14.307+0200]        [dAndSave            ]    [(TimeLineSleepChart.java:319)#setDatas]************首页时间图表拿到的数据如下*************
+P    [2021-04-04 18:51:14.309+0200]        [dAndSave            ]    [(TimeLineSleepChart.java:320)#setDatas]this.sleepData = ProHealthSleep{isUploaded=false, sleepDataId=97, macAddress='E7:40:B8:61:56:5E', year=2021, month=4, day=4, sleepEndedTimeH=7, sleepEndedTimeM=56, totalSleepMinutes=504, lightSleepCount=10, deepSleepCount=9, awakeCount=0, lightSleepMinutes=372, deepSleepMinutes=132, sleepScore=0, date=Sun Apr 04 00:00:00 GMT+02:00 2021}
+P    [2021-04-04 18:51:14.310+0200]        [dAndSave            ]    [(TimeLineSleepChart.java:321)#setDatas]this.sleepItems = [ProHealthSleepItem{
+    "isUploaded": false,
+    "sleepDataId": 2932,
+    "macAddress": "E7:40:B8:61:56:5E",
+    "year": 2021,
+    "month": 4,
+    "day": 4,
+    "sleepEndedTimeH": 7,
+    "sleepEndedTimeM": 56,
+    "offsetMinute": 18,
+    "sleepStatus": 2,
+    "date": null
+}
+P    [2021-04-04 18:51:16.189+0200]        [dAndSave            ]    [(CacheHelper.java:823)#getHealthSleepItemByDate]2021-04-04,获取到缓存的睡眠数据[[ProHealthSleepItem{
+    "isUploaded": false,
+    "sleepDataId": 2932,
+    "macAddress": "E7:40:B8:61:56:5E",
+    "year": 2021,
+    "month": 4,
+    "day": 4,
+    "sleepEndedTimeH": 7,
+    "sleepEndedTimeM": 56,
+    "offsetMinute": 18,
+    "sleepStatus": 2,
+    "date": null
+}
+P    [2021-04-04 18:51:16.200+0200]        [dAndSave            ]    [(TimeLineSleepChart.java:319)#setDatas]************首页时间图表拿到的数据如下*************
+P    [2021-04-04 18:51:16.201+0200]        [dAndSave            ]    [(TimeLineSleepChart.java:320)#setDatas]this.sleepData = ProHealthSleep{isUploaded=false, sleepDataId=97, macAddress='E7:40:B8:61:56:5E', year=2021, month=4, day=4, sleepEndedTimeH=7, sleepEndedTimeM=56, totalSleepMinutes=504, lightSleepCount=10, deepSleepCount=9, awakeCount=0, lightSleepMinutes=372, deepSleepMinutes=132, sleepScore=0, date=Sun Apr 04 00:00:00 GMT+02:00 2021}
+P    [2021-04-04 18:51:16.202+0200]        [dAndSave            ]    [(TimeLineSleepChart.java:321)#setDatas]this.sleepItems = [ProHealthSleepItem{
+    "isUploaded": false,
+    "sleepDataId": 2932,
+    "macAddress": "E7:40:B8:61:56:5E",
+    "year": 2021,
+    "month": 4,
+    "day": 4,
+    "sleepEndedTimeH": 7,
+    "sleepEndedTimeM": 56,
+    "offsetMinute": 18,
+    "sleepStatus": 2,
+    "date": null
+}
+P    [2021-04-04 18:51:16.214+0200]        [dAndSave            ]    [(TimeLineSleepChart.java:319)#setDatas]************首页时间图表拿到的数据如下*************
+P    [2021-04-04 18:51:16.215+0200]        [dAndSave            ]    [(TimeLineSleepChart.java:320)#setDatas]this.sleepData = ProHealthSleep{isUploaded=false, sleepDataId=97, macAddress='E7:40:B8:61:56:5E', year=2021, month=4, day=4, sleepEndedTimeH=7, sleepEndedTimeM=56, totalSleepMinutes=504, lightSleepCount=10, deepSleepCount=9, awakeCount=0, lightSleepMinutes=372, deepSleepMinutes=132, sleepScore=0, date=Sun Apr 04 00:00:00 GMT+02:00 2021}
+P    [2021-04-04 18:51:16.216+0200]        [dAndSave            ]    [(TimeLineSleepChart.java:321)#setDatas]this.sleepItems = [ProHealthSleepItem{
+    "isUploaded": false,
+    "sleepDataId": 2932,
+    "macAddress": "E7:40:B8:61:56:5E",
+    "year": 2021,
+    "month": 4,
+    "day": 4,
+    "sleepEndedTimeH": 7,
+    "sleepEndedTimeM": 56,
+    "offsetMinute": 18,
+    "sleepStatus": 2,
+    "date": null
+}
+P    [2021-04-04 18:51:16.222+0200]        [dAndSave            ]    [(TimeLineSleepChart.java:319)#setDatas]************首页时间图表拿到的数据如下*************
+P    [2021-04-04 18:51:16.224+0200]        [dAndSave            ]    [(TimeLineSleepChart.java:320)#setDatas]this.sleepData = ProHealthSleep{isUploaded=false, sleepDataId=97, macAddress='E7:40:B8:61:56:5E', year=2021, month=4, day=4, sleepEndedTimeH=7, sleepEndedTimeM=56, totalSleepMinutes=504, lightSleepCount=10, deepSleepCount=9, awakeCount=0, lightSleepMinutes=372, deepSleepMinutes=132, sleepScore=0, date=Sun Apr 04 00:00:00 GMT+02:00 2021}
+P    [2021-04-04 18:51:16.226+0200]        [dAndSave            ]    [(TimeLineSleepChart.java:321)#setDatas]this.sleepItems = [ProHealthSleepItem{
+    "isUploaded": false,
+    "sleepDataId": 2932,
+    "macAddress": "E7:40:B8:61:56:5E",
+    "year": 2021,
+    "month": 4,
+    "day": 4,
+    "sleepEndedTimeH": 7,
+    "sleepEndedTimeM": 56,
+    "offsetMinute": 18,
+    "sleepStatus": 2,
+    "date": null
+}

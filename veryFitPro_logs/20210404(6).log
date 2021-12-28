@@ -1,0 +1,2 @@
+P    [2021-04-04 18:50:36.155+0200]        [dAndSave            ]    [(HttpClient.java:685)#getDeviceUpdateInfo]检查更新服务参数如下：{mobileBrand=SM-A715F, gender=1, os=1, firmwareId=313, appVersionCode=390, version=33, age=23, mac=E7:40:B8:61:56:5E}
+P    [2021-04-04 18:50:36.452+0200]        [dAndSave            ]    [(DevicePresenter.java:416)#onSuccess]检查更新服务成功3：

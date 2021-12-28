@@ -1,0 +1,5813 @@
+P    [2021-04-04 07:57:24.191+0200]        [SDK                 ]    solib init ok.
+P    [2021-04-04 07:57:24.552+0200]        [DeviceSharedPreferences]    sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 07:57:24.619+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 07:57:24.621+0200]        [[BIND_UNBIND]       ]    [SoLibInit] setMode(SYS_MODE_SET_BIND)
+P    [2021-04-04 07:57:24.633+0200]        [DeviceSharedPreferences]    sp_name = device_E7:40:B8:61:56:5E
+P    [2021-04-04 07:57:24.995+0200]        [SDK                 ]    ido-ble-sdk init ok, version is 2.45.1,2021/0121/17:07
+P    [2021-04-04 07:57:24.999+0200]        [SDK                 ]    initParam InitParam{log_save_path='/storage/emulated/0/Android/data/com.veryfit2hr.second/files/VeryFitPro/log/ble_sdk/', log_save_days=0, soJinLogSavePath='', isEnableLog=true, isSaveDeviceDataToDB=true, isEncryptedDBData=false, isEncryptedSPData=false}
+E    [2021-04-04 07:57:25.763+0200]        [LOG_EVENT           ]    {"__topic__":"IDO_BLE_LIB","__source__":"80.180.159.208","__logs__":[{"device_version":"33","__time__":1617515844,"app_name":"VeryFitPro_3.2.8","log_type":"init","phone_type":"android","device_name":"YG-SW01","device_id":"0","phone_time_zone":"Europe/Rome","sdk_version":"IDoBLELib-2.45.1","phone_name":"SM-A715F","device_mac_address":"E7:40:B8:61:56:5E","phone_version":"10"}]}
+P    [2021-04-04 07:57:26.435+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:33.724+0200]        [SDK                 ]    solib init ok.
+P    [2021-04-04 18:50:33.747+0200]        [DeviceSharedPreferences]    sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:33.750+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:33.750+0200]        [[BIND_UNBIND]       ]    [SoLibInit] setMode(SYS_MODE_SET_BIND)
+P    [2021-04-04 18:50:33.753+0200]        [DeviceSharedPreferences]    sp_name = device_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:33.784+0200]        [SDK                 ]    ido-ble-sdk init ok, version is 2.45.1,2021/0121/17:07
+P    [2021-04-04 18:50:33.785+0200]        [SDK                 ]    initParam InitParam{log_save_path='/storage/emulated/0/Android/data/com.veryfit2hr.second/files/VeryFitPro/log/ble_sdk/', log_save_days=0, soJinLogSavePath='', isEnableLog=true, isSaveDeviceDataToDB=true, isEncryptedDBData=false, isEncryptedSPData=false}
+P    [2021-04-04 18:50:34.026+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:36.143+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:36.153+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:36.343+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:36.514+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:38.059+0200]        [BASE_CONNECT_LOG    ]    bluetooth switch is turn on
+P    [2021-04-04 18:50:38.062+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:38.063+0200]        [BASE_CONNECT_LOG    ]    [AutoConnectPresenter] toConnectDevice()
+P    [2021-04-04 18:50:38.064+0200]        [BASE_CONNECT_LOG    ]    [AutoConnectPresenter] to connect device, macAddress is E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:38.065+0200]        [BASE_CONNECT_LOG    ]    [AutoConnectPresenter] to scan target device.
+P    [2021-04-04 18:50:38.078+0200]        [BASE_CONNECT_LOG    ]    [ScanManager] stopScanDevices(), mIsScanning = false
+P    [2021-04-04 18:50:38.078+0200]        [BASE_CONNECT_LOG    ]    [AutoConnectPresenter] scanTargetDevice(), address is E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:38.078+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:38.079+0200]        [BASE_CONNECT_LOG    ]    [AutoConnectPresenter] scanTargetDevice...
+P    [2021-04-04 18:50:38.079+0200]        [BASE_CONNECT_LOG    ]    [ScanTargetDeviceTask] startTask()
+P    [2021-04-04 18:50:38.080+0200]        [BASE_CONNECT_LOG    ]    [ScanManager] stopScanDevices(), mIsScanning = false
+P    [2021-04-04 18:50:38.081+0200]        [BASE_CONNECT_LOG    ]    [ScanTargetDeviceTask] isNeedScan3 = true
+P    [2021-04-04 18:50:38.081+0200]        [BASE_CONNECT_LOG    ]    [ScanManager] startScanDevices()
+P    [2021-04-04 18:50:38.095+0200]        [BASE_CONNECT_LOG    ]    [ScanManager] phone has paired list:
+21:BA:D5:9F:AB:C7/T2
+A8:0C:63:BA:2F:6A/Lory
+B4:D5:BD:B8:44:89/lorenzo-HP
+D4:8A:39:B2:B1:17/Fedra's S20 FE
+04:4E:AF:4F:39:2A/i10
+00:1A:7D:DA:71:15/DESKTOP-7381G75
+20:18:08:00:BD:A9/06820
+00:1D:86:73:DA:D0/KD-X4**DBT
+
+P    [2021-04-04 18:50:38.120+0200]        [BLEManager          ]    autoConnect.
+P    [2021-04-04 18:50:38.121+0200]        [MultiDeviceSPDataUtils]    [switchToDevice] sp_name = device_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:38.121+0200]        [DeviceSharedPreferences]    switchToDevice = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:38.121+0200]        [BASE_CONNECT_LOG    ]    [DeviceManager] autoConnect.
+P    [2021-04-04 18:50:38.124+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:38.124+0200]        [BASE_CONNECT_LOG    ]    [AutoConnectPresenter] toConnectDevice()
+P    [2021-04-04 18:50:38.124+0200]        [BASE_CONNECT_LOG    ]    [ScanTargetDeviceTask] cancelDelayTimer. 
+P    [2021-04-04 18:50:38.135+0200]        [BASE_CONNECT_LOG    ]    [ScanTargetDeviceTask] start again ...
+P    [2021-04-04 18:50:38.136+0200]        [BASE_CONNECT_LOG    ]    [ScanManager] startScanDevices()
+P    [2021-04-04 18:50:38.165+0200]        [BASE_CONNECT_LOG    ]    [ScanManager] phone has paired list:
+21:BA:D5:9F:AB:C7/T2
+A8:0C:63:BA:2F:6A/Lory
+B4:D5:BD:B8:44:89/lorenzo-HP
+D4:8A:39:B2:B1:17/Fedra's S20 FE
+04:4E:AF:4F:39:2A/i10
+00:1A:7D:DA:71:15/DESKTOP-7381G75
+20:18:08:00:BD:A9/06820
+00:1D:86:73:DA:D0/KD-X4**DBT
+
+E    [2021-04-04 18:50:38.175+0200]        [BASE_CONNECT_LOG    ]    [ScanManager] at state of scanning, ignore this action
+E    [2021-04-04 18:50:38.175+0200]        [BASE_CONNECT_LOG    ]    [AutoConnectPresenter] isAutoConnecting = true, ignore this action!
+P    [2021-04-04 18:50:38.654+0200]        [BASE_CONNECT_LOG    ]    [ScanManager] find device:BLEDevice{mDeviceName='YG-SW01', mDeviceAddress='E7:40:B8:61:56:5E', mRssi=-50, mDeviceId=0, mIsInDfuMode=false, type=0}
+P    [2021-04-04 18:50:38.670+0200]        [BASE_CONNECT_LOG    ]    [ScanTargetDeviceTask] has find target device, start to connect
+P    [2021-04-04 18:50:38.671+0200]        [BASE_CONNECT_LOG    ]    [ScanManager] stopScanDevices()
+P    [2021-04-04 18:50:38.671+0200]        [BASE_CONNECT_LOG    ]    [ScanManager] this task of scan is finished
+P    [2021-04-04 18:50:38.682+0200]        [BASE_CONNECT_LOG    ]    [ScanTargetDeviceTask] stopTask()
+P    [2021-04-04 18:50:38.685+0200]        [BASE_CONNECT_LOG    ]    [ScanManager] stopScanDevices(), mIsScanning = false
+P    [2021-04-04 18:50:38.687+0200]        [BASE_CONNECT_LOG    ]    [BaseConnect] printPhoneEnvInfo, not paired!
+P    [2021-04-04 18:50:38.689+0200]        [BASE_CONNECT_LOG    ]    [BaseConnect] connect() , address is E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:38.689+0200]        [BASE_CONNECT_LOG    ]    [BaseConnect] start to connect E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:38.690+0200]        [BASE_CONNECT_LOG    ]    [TimeOutPresenter] start connect timeout task , task id = 2
+P    [2021-04-04 18:50:38.699+0200]        [BASE_CONNECT_LOG    ]    [BaseConnect] connecting E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:39.570+0200]        [BLEManager          ]    autoConnect.
+P    [2021-04-04 18:50:39.570+0200]        [MultiDeviceSPDataUtils]    [switchToDevice] sp_name = device_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:39.570+0200]        [DeviceSharedPreferences]    switchToDevice = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:39.570+0200]        [BASE_CONNECT_LOG    ]    [DeviceManager] autoConnect.
+P    [2021-04-04 18:50:39.572+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:39.572+0200]        [BASE_CONNECT_LOG    ]    [AutoConnectPresenter] toConnectDevice()
+E    [2021-04-04 18:50:39.572+0200]        [BASE_CONNECT_LOG    ]    [AutoConnectPresenter] isAutoConnecting = true, ignore this action!
+P    [2021-04-04 18:50:39.625+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:39.695+0200]        [BASE_CONNECT_LOG    ]    [TimeOutPresenter] stop connect timeout task , task id = 2
+P    [2021-04-04 18:50:39.701+0200]        [BASE_CONNECT_LOG    ]    [BaseConnect:connectionStateChange()] status = 0,newState = 2
+P    [2021-04-04 18:50:39.701+0200]        [BASE_CONNECT_LOG    ]    [BaseConnect:connectionStateChange()] gatt connected.
+P    [2021-04-04 18:50:39.702+0200]        [BASE_CONNECT_LOG    ]    [BaseConnect:connectionStateChange()] start to discoverServices...
+P    [2021-04-04 18:50:39.703+0200]        [BASE_CONNECT_LOG    ]    [TimeOutPresenter] start discover services timeout task , task id = 3
+P    [2021-04-04 18:50:40.518+0200]        [BASE_CONNECT_LOG    ]    [TimeOutPresenter] stop discover services timeout task , task id = 3
+P    [2021-04-04 18:50:40.518+0200]        [BASE_CONNECT_LOG    ]    [BaseConnect:servicesDiscovered()] discoverServices ok!
+P    [2021-04-04 18:50:40.633+0200]        [BASE_CONNECT_LOG    ]    [BaseConnect] start to enablePeerDeviceNotifyNormal...
+P    [2021-04-04 18:50:40.638+0200]        [BASE_CONNECT_LOG    ]    [BaseConnect] enablePeerDeviceNotifyNormal ok
+P    [2021-04-04 18:50:40.719+0200]        [BASE_CONNECT_LOG    ]    [BaseConnect] start to enablePeerDeviceNotifyHealth...
+P    [2021-04-04 18:50:40.724+0200]        [BASE_CONNECT_LOG    ]    [BaseConnect] enablePeerDeviceNotifyHealth ok
+P    [2021-04-04 18:50:40.807+0200]        [IDO_CMD             ]    [BIND_UNBIND] start to encryptedAtConnected 
+P    [2021-04-04 18:50:40.807+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:40.810+0200]        [IDO_CMD             ]    [BIND_UNBIND] encryptedAtConnectedIfFunctionInfoIsNotNull, device not support encrypt. 
+P    [2021-04-04 18:50:40.811+0200]        [BASE_CONNECT_LOG    ]    [BaseConnect] connect success
+P    [2021-04-04 18:50:40.814+0200]        [IDO_DATA            ]    [saveCurrentDeviceInfo] bleDevice=BLEDevice{mDeviceName='YG-SW01', mDeviceAddress='E7:40:B8:61:56:5E', mRssi=-50, mDeviceId=0, mIsInDfuMode=false, type=0}
+P    [2021-04-04 18:50:40.815+0200]        [IDO_DATA            ]    [saveCurrentDeviceInfo] exist=BLEDevice{mDeviceName='YG-SW01', mDeviceAddress='E7:40:B8:61:56:5E', mRssi=-73, mDeviceId=0, mIsInDfuMode=false, type=0}
+P    [2021-04-04 18:50:40.816+0200]        [DeviceSharedPreferences]    switchToDevice = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:40.820+0200]        [MultiDeviceSPDataUtils]    [switchToDevice] sp_name = device_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:40.821+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:40.821+0200]        [[BIND_UNBIND]       ]    [onConnectSuccess] setMode(SYS_MODE_SET_BIND)
+P    [2021-04-04 18:50:40.835+0200]        [BASE_CONNECT_LOG    ]    [AutoConnectPresenter]  callOnConnectedAndReady
+E    [2021-04-04 18:50:40.836+0200]        [BASE_CONNECT_LOG    ]    [AutoConnectPresenter]  stop reconnect task
+P    [2021-04-04 18:50:40.837+0200]        [BASE_CONNECT_LOG    ]    [ScanManager] stopScanDevices(), mIsScanning = false
+P    [2021-04-04 18:50:40.846+0200]        [IDO_CMD             ]    [SET_PARA] start to setMusicSwitch ,false
+P    [2021-04-04 18:50:40.848+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 03 2a 55 )
+P    [2021-04-04 18:50:40.850+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:50:40.851+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 03 2a 55 
+P    [2021-04-04 18:50:40.857+0200]        [SO_LIB_ACTION       ]    [SoBaseRequest] getMacAddress
+P    [2021-04-04 18:50:40.857+0200]        [IDO_CMD             ]    [GET_INFO] start to getMacAddress...
+P    [2021-04-04 18:50:40.942+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 03 2a 55 )
+P    [2021-04-04 18:50:41.304+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 03 2a 
+P    [2021-04-04 18:50:41.306+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 02 04 )
+P    [2021-04-04 18:50:41.306+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:50:41.307+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 02 04 
+P    [2021-04-04 18:50:41.310+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 03 30 55 01 00 
+P    [2021-04-04 18:50:41.318+0200]        [IDO_DATA            ]    [saveMusicSwitch],false
+P    [2021-04-04 18:50:41.392+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 02 04 )
+P    [2021-04-04 18:50:41.393+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 02 04 e7 40 b8 61 56 5e 
+P    [2021-04-04 18:50:41.416+0200]        [SO_LIB_ACTION       ]    [SoBaseRequest] getBasicInfo
+P    [2021-04-04 18:50:41.416+0200]        [IDO_CMD             ]    [GET_INFO] start to getBasicInfo...
+P    [2021-04-04 18:50:41.417+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 02 01 )
+P    [2021-04-04 18:50:41.417+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:50:41.417+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 02 01 
+P    [2021-04-04 18:50:41.484+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 02 01 )
+P    [2021-04-04 18:50:41.484+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 02 01 39 01 21 01 00 4a 01 00 01 
+P    [2021-04-04 18:50:41.499+0200]        [IDO_CMD             ]    [GET_INFO] [handleBasicInfo] json is{
+	"battStatus" : 0,
+	"bind_confirm_method" : 0,
+	"bind_confirm_timeout" : 0,
+	"deivceId" : 313,
+	"dev_type" : 0,
+	"energe" : 74,
+	"firmwareVersion" : 33,
+	"mode" : 1,
+	"pairFlag" : 1,
+	"platform" : 0,
+	"reboot" : 0,
+	"shape" : 0
+}
+
+P    [2021-04-04 18:50:41.502+0200]        [IDO_DATA            ]    [saveBasicInfo],BasicInfo{deivceId=313, firmwareVersion=33, battStatus=0, mode=1, pairFlag=1, reboot=0, energe=74, bind_confirm_method=0, bind_confirm_timeout=0, platform=0, shape=0, dev_type=0}
+P    [2021-04-04 18:50:41.502+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:41.517+0200]        [SO_LIB_ACTION       ]    [SoBaseRequest] getFunctionTables
+P    [2021-04-04 18:50:41.517+0200]        [IDO_CMD             ]    [GET_INFO] start to getUserFunctionTables...
+P    [2021-04-04 18:50:41.518+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 02 02 )
+P    [2021-04-04 18:50:41.518+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:50:41.518+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 02 02 
+P    [2021-04-04 18:50:41.572+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 02 02 )
+P    [2021-04-04 18:50:41.663+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 02 02 fb 0a ff 48 07 6f e1 05 3f 0a 88 00 02 00 51 0f 07 7e 
+P    [2021-04-04 18:50:41.664+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 02 07 )
+P    [2021-04-04 18:50:41.664+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:50:41.664+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 02 07 
+E    [2021-04-04 18:50:41.683+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 302
+P    [2021-04-04 18:50:41.701+0200]        [SO_LIB_ACTION       ]    [SoBaseRequest] setTime
+P    [2021-04-04 18:50:41.701+0200]        [IDO_CMD             ]    [SET_PARA] start to setTime ,SystemTime{year=2021, monuth=4, day=4, hour=18, minute=50, second=41, week=6, time_zone=2}
+P    [2021-04-04 18:50:41.704+0200]        [IDO_CMD             ]    [SYNC_DATA] fast sync config complete.
+E    [2021-04-04 18:50:41.706+0200]        [SO_LIB_ACTION       ]    [SoBaseRequest] should handle type = 350
+P    [2021-04-04 18:50:41.752+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 02 07 )
+P    [2021-04-04 18:50:41.753+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 02 07 00 20 48 c6 28 00 00 3f 07 00 
+P    [2021-04-04 18:50:41.754+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 03 01 e5 07 04 04 12 32 29 06 00 00 00 00 02 00 )
+P    [2021-04-04 18:50:41.754+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:50:41.754+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 03 01 e5 07 04 04 12 32 29 06 00 00 00 00 02 00 
+P    [2021-04-04 18:50:41.767+0200]        [IDO_CMD             ]    [GET_INFO] [handleSupportFunctionInfo] json is{
+	"BindAuth" : false,
+	"BindCodeAuth" : false,
+	"BloodPressure" : false,
+	"FiveHRInterval" : true,
+	"Gmail" : false,
+	"HIIT" : true,
+	"KakaoTalk" : true,
+	"Line" : true,
+	"Outlook" : false,
+	"Snapchat" : false,
+	"Telegram" : false,
+	"VKontakte" : true,
+	"Viber" : true,
+	"WatchDial" : false,
+	"activity_switch" : false,
+	"agps_offline" : false,
+	"agps_online" : false,
+	"alarmClock" : false,
+	"alarmCount" : 10,
+	"alarmCustom" : true,
+	"alarmDating" : true,
+	"alarmMedicine" : true,
+	"alarmMetting" : true,
+	"alarmParty" : true,
+	"alarmSleep" : true,
+	"alarmSport" : true,
+	"alarmWakeUp" : true,
+	"allAppNotice" : false,
+	"ancs" : true,
+	"antilost" : false,
+	"bilateralAntiLost" : false,
+	"bleControlMusic" : false,
+	"bleControlTakePhoto" : false,
+	"breathe_train" : false,
+	"calendar" : true,
+	"calling" : true,
+	"callingContact" : true,
+	"callingNum" : true,
+	"cricket" : false,
+	"defaultConfig" : true,
+	"defaultSportType" : false,
+	"deviceUpdate" : true,
+	"displayMode" : false,
+	"disturb_have_rang_repeat" : false,
+	"doNotDisturb" : true,
+	"downloadLanguage" : false,
+	"elliptical" : true,
+	"exFuncTable" : true,
+	"ex_activity_time_sync" : false,
+	"ex_dh_new_app_notice" : false,
+	"ex_gps" : false,
+	"ex_id107_l_dial" : false,
+	"ex_lang1_danish" : false,
+	"ex_lang1_slovak" : false,
+	"ex_lang2_croatian" : false,
+	"ex_lang2_hindi" : false,
+	"ex_lang2_indonesian" : true,
+	"ex_lang2_korean" : false,
+	"ex_lang2_portuguese" : true,
+	"ex_lang2_turkish" : false,
+	"ex_lang3_arabic" : false,
+	"ex_lang3_burmese" : false,
+	"ex_lang3_filipino" : false,
+	"ex_lang3_greek" : false,
+	"ex_lang3_thai" : false,
+	"ex_lang3_traditional_chinese" : false,
+	"ex_lang3_vietnamese" : false,
+	"ex_lang_dutch" : false,
+	"ex_lang_hungarian" : false,
+	"ex_lang_lithuanian" : false,
+	"ex_lang_polish" : false,
+	"ex_lang_romanian" : false,
+	"ex_lang_russian" : false,
+	"ex_lang_slovenian" : false,
+	"ex_lang_ukrainian" : false,
+	"ex_main3_calorie_goal" : true,
+	"ex_main3_distance_goal" : true,
+	"ex_main3_get_do_not_disturb" : false,
+	"ex_main3_menstruation" : false,
+	"ex_main3_v3_pressure" : false,
+	"ex_main3_v3_spo2_data" : false,
+	"ex_main4_drink_water_reminder" : false,
+	"ex_main4_v3_activity_data" : false,
+	"ex_main4_v3_gps_data_data" : false,
+	"ex_main4_v3_hr_data" : false,
+	"ex_main4_v3_swim" : false,
+	"ex_main7_charging_time" : false,
+	"ex_main7_menu_list" : false,
+	"ex_main7_photo_wallpaper" : false,
+	"ex_main7_utc_time_zone" : false,
+	"ex_noitice_128byte" : true,
+	"ex_notice_250byte" : true,
+	"ex_screen_brightness" : false,
+	"ex_sleep_period" : false,
+	"ex_table_main10_clear_ble_cache" : false,
+	"ex_table_main10_get_dev_name" : false,
+	"ex_table_main10_get_watch_id" : false,
+	"ex_table_main10_set_hand_washing_reminder" : false,
+	"ex_table_main10_set_phone_voice" : false,
+	"ex_table_main10_v3_get_lang_library" : false,
+	"ex_table_main10_v3_notify_msg" : false,
+	"ex_table_main10_v3_voice_support_alexa" : false,
+	"ex_table_main11_alarm_other_is_no_label" : false,
+	"ex_table_main11_not_support_heart_rate_high_alarm" : false,
+	"ex_table_main11_not_support_v3_activity_gps_exchange" : false,
+	"ex_table_main11_pressure_high_threshold_reminder" : false,
+	"ex_table_main11_support_cloud_dial" : false,
+	"ex_table_main11_taking_medicine" : false,
+	"ex_table_main7_choice_use" : false,
+	"ex_table_main7_heart_rate_interval" : false,
+	"ex_table_main7_v3_sports_type" : false,
+	"ex_table_main7_voice_transmission" : false,
+	"ex_table_main8_encrypted_auth" : false,
+	"ex_table_main8_screen_brightness_3_level" : false,
+	"ex_table_main8_ublox_model" : false,
+	"ex_table_main8_v3_get_heat_log" : false,
+	"ex_table_main8_v3_sleep" : false,
+	"ex_table_main8_v3_spo2_off_change" : false,
+	"ex_table_main8_v3_sync_activity" : false,
+	"ex_table_main8_v3_sync_alarm" : false,
+	"ex_table_main9_fast_msg_data" : false,
+	"ex_table_main9_get_device_update_state" : false,
+	"ex_table_main9_get_screen_brightness" : false,
+	"ex_table_main9_get_up_hand_gesture" : false,
+	"ex_table_main9_is_watch" : false,
+	"ex_table_main9_restore_factory" : false,
+	"ex_table_main9_v3_activity_exchange_data" : false,
+	"ex_table_main9_v3_sports" : false,
+	"ex_v3_log" : false,
+	"factory_reset" : false,
+	"fastSync" : false,
+	"findDevice" : false,
+	"findPhone" : false,
+	"fineTImeControl" : false,
+	"flashLog" : false,
+	"flipScreen" : false,
+	"heartRate" : true,
+	"heartRateMonitor" : true,
+	"hidPhoto" : false,
+	"indoor_cycle" : true,
+	"indoor_run" : true,
+	"indoor_walk" : true,
+	"instagram" : true,
+	"is_need_sync_v2" : true,
+	"lang_ch" : false,
+	"lang_czech" : false,
+	"lang_eng" : true,
+	"lang_french" : true,
+	"lang_german" : true,
+	"lang_italian" : true,
+	"lang_japanese" : true,
+	"lang_spanish" : true,
+	"level5_hr_interval" : false,
+	"liftingWristBacklight" : false,
+	"linked_in" : true,
+	"logIn" : true,
+	"long_mtu" : false,
+	"mediumToHighActiveDuration" : false,
+	"messengre" : true,
+	"multiActivityNoUseApp" : false,
+	"multiDial" : false,
+	"night_auto_brightness" : false,
+	"noShowHRInterval" : false,
+	"noticeEmail" : true,
+	"noticeFacebook" : true,
+	"noticeMessage" : true,
+	"noticeQQ" : true,
+	"noticeSinaWeibo" : false,
+	"noticeTwitter" : true,
+	"noticeWeixin" : true,
+	"notice_Amazon" : false,
+	"notice_Dailyhunt" : false,
+	"notice_Flipkart" : false,
+	"notice_Gpay" : false,
+	"notice_Hotstar" : false,
+	"notice_Inshorts" : false,
+	"notice_Jio_Tv" : false,
+	"notice_Make_My_Trip" : false,
+	"notice_Netflix" : false,
+	"notice_Paytm" : false,
+	"notice_Phonpe" : false,
+	"notice_Prime" : false,
+	"notice_Redbus" : false,
+	"notice_Swiggy" : false,
+	"notice_TikTok" : false,
+	"notice_Zomato" : false,
+	"notice_chatwork" : false,
+	"notice_keep" : false,
+	"notice_pinterest_yahoo" : true,
+	"notice_slack" : false,
+	"notice_tumblr" : true,
+	"notice_yahoo_mail" : false,
+	"notice_youtube" : false,
+	"onetouchCalling" : false,
+	"open_water_swim" : false,
+	"other" : false,
+	"outdoor_cycle" : true,
+	"outdoor_run" : true,
+	"outdoor_walk" : true,
+	"pool_swim" : false,
+	"realtimeData" : true,
+	"rower" : true,
+	"screen_brightness_5_level" : false,
+	"sedentariness" : true,
+	"shortcut" : false,
+	"singleSport" : false,
+	"skype" : true,
+	"sleepMonitor" : true,
+	"sport_mode_sort" : true,
+	"sport_show_num" : 7,
+	"sport_type0_badminton" : false,
+	"sport_type0_by_bike" : false,
+	"sport_type0_mountain_climbing" : false,
+	"sport_type0_on_foot" : true,
+	"sport_type0_other" : true,
+	"sport_type0_run" : false,
+	"sport_type0_swim" : false,
+	"sport_type0_walk" : false,
+	"sport_type1_dumbbell" : false,
+	"sport_type1_ellipsoid" : false,
+	"sport_type1_fitness" : false,
+	"sport_type1_push_up" : false,
+	"sport_type1_sit_up" : false,
+	"sport_type1_spinning" : false,
+	"sport_type1_treadmill" : false,
+	"sport_type1_weightlifting" : false,
+	"sport_type2_basketball" : false,
+	"sport_type2_bodybuilding_exercise" : false,
+	"sport_type2_footballl" : false,
+	"sport_type2_rope_skipping" : false,
+	"sport_type2_table_tennis" : false,
+	"sport_type2_tennis" : false,
+	"sport_type2_volleyball" : false,
+	"sport_type2_yoga" : true,
+	"sport_type3_baseball" : false,
+	"sport_type3_dance" : false,
+	"sport_type3_golf" : false,
+	"sport_type3_roller_skating" : false,
+	"sport_type3_skiing" : false,
+	"staticHR" : false,
+	"stepCalculation" : true,
+	"support_set_v3_heart_interval" : false,
+	"timeLine" : true,
+	"tipInfoContact" : true,
+	"tipInfoContent" : true,
+	"tipInfoNum" : false,
+	"unitSet" : true,
+	"upHandGestrue" : true,
+	"versionInfo" : true,
+	"walk_reminder" : false,
+	"weather" : true,
+	"weather_city" : false,
+	"wechatSport" : true,
+	"whatsapp" : true
+}
+
+E    [2021-04-04 18:50:41.771+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 311
+P    [2021-04-04 18:50:41.842+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 03 01 e5 07 04 04 12 32 29 06 00 00 00 00 02 00 )
+P    [2021-04-04 18:50:41.843+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 03 01 
+P    [2021-04-04 18:50:42.804+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:42.806+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:42.812+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:42.813+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:42.818+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] start...
+P    [2021-04-04 18:50:42.818+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] syncPara is SyncPara{timeoutMillisecond=120000, iSyncDataListener=com.ido.veryfitpro.common.ble.SyncDataListenerWrapper@d38cd33, iSyncProgressListener=com.ido.veryfitpro.common.ble.DeviceSynchPresenter$4@82718f0, isNeedSyncConfigData=false}
+P    [2021-04-04 18:50:42.820+0200]        [SYNC_ALL_PROGRESS_LOG]    [GetActivityCountTask] start to get activity count
+P    [2021-04-04 18:50:42.820+0200]        [IDO_CMD             ]    [GET_INFO] start to getActivityCount...
+P    [2021-04-04 18:50:42.821+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 09 07 )
+P    [2021-04-04 18:50:42.821+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:50:42.821+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 09 07 
+P    [2021-04-04 18:50:42.876+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 09 07 )
+P    [2021-04-04 18:50:42.877+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 07 01 
+P    [2021-04-04 18:50:42.881+0200]        [IDO_CMD             ]    [GET_INFO] [handleActivityCount] {
+	"activity_packet" : 0,
+	"count" : 1,
+	"gps_count" : 0,
+	"gps_packet" : 0
+}
+
+P    [2021-04-04 18:50:42.882+0200]        [SYNC_ALL_PROGRESS_LOG]    [GetActivityCountTask] get activity count ok,ActivityDataCount{count=1, gps_count=0}
+P    [2021-04-04 18:50:42.883+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] initSyncV2AndV3Task...
+P    [2021-04-04 18:50:42.885+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] start...
+P    [2021-04-04 18:50:42.885+0200]        [IDO_CMD             ]    [SYNC_DATA] start sync health data...
+P    [2021-04-04 18:50:42.887+0200]        [IDO_CMD             ]    [SYNC_DATA] is not support fast sync, reset all offset!
+P    [2021-04-04 18:50:42.887+0200]        [IDO_CMD             ]    [SYNC_DATA] reset all offset!
+P    [2021-04-04 18:50:42.888+0200]        [IDO_CMD             ]    [SYNC_DATA] set health data offset, type=0, value=0
+P    [2021-04-04 18:50:42.888+0200]        [IDO_CMD             ]    [SYNC_DATA] set health data offset, type=2, value=0
+P    [2021-04-04 18:50:42.888+0200]        [IDO_CMD             ]    [SYNC_DATA] set health data offset, type=3, value=0
+P    [2021-04-04 18:50:42.889+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask]onStart
+P    [2021-04-04 18:50:42.894+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 08 01 01 00 )
+P    [2021-04-04 18:50:42.894+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:50:42.894+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 08 01 01 00 
+P    [2021-04-04 18:50:43.011+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 08 01 01 00 )
+P    [2021-04-04 18:50:43.012+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 01 00 00 01 01 01 00 00 00 
+E    [2021-04-04 18:50:43.016+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 8
+P    [2021-04-04 18:50:43.018+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 08 03 01 00 00 )
+P    [2021-04-04 18:50:43.018+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:50:43.019+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 08 03 01 00 00 
+P    [2021-04-04 18:50:43.102+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 08 03 01 00 00 )
+P    [2021-04-04 18:50:43.192+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 03 01 0c e5 07 04 04 00 00 0f 4c 20 00 00 00 fc b4 00 20 
+P    [2021-04-04 18:50:43.193+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 03 02 12 a3 54 00 00 da 04 00 00 a1 3e 00 00 66 2b 00 00 
+P    [2021-04-04 18:50:43.194+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 03 03 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:50:43.194+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 03 04 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:50:43.199+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 03 05 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+E    [2021-04-04 18:50:43.199+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 8
+P    [2021-04-04 18:50:43.200+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 03 06 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+E    [2021-04-04 18:50:43.200+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 8
+P    [2021-04-04 18:50:43.200+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 1
+P    [2021-04-04 18:50:43.200+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 03 07 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:50:43.201+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 03 08 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:50:43.201+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 0
+P    [2021-04-04 18:50:43.202+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 03 09 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:50:43.214+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 2
+P    [2021-04-04 18:50:43.215+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 1
+P    [2021-04-04 18:50:43.236+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 03 0a 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:50:43.327+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 03 0b 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:50:43.328+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 03 0c 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:50:43.329+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 03 0d 10 68 c0 06 30 01 00 00 00 00 00 b8 00 0e 20 02 4c 
+P    [2021-04-04 18:50:43.334+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 03 0e 10 02 22 d0 06 00 00 00 00 00 00 00 00 00 00 78 c2 
+P    [2021-04-04 18:50:43.335+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 03 0f 10 20 50 07 20 13 0e 91 38 4c 81 10 e0 03 4c 40 08 
+P    [2021-04-04 18:50:43.336+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 03 10 10 e0 00 34 00 01 90 00 00 00 00 00 00 50 ca 92 90 
+P    [2021-04-04 18:50:43.337+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 03 11 10 1e 2c 09 83 20 1b 28 c1 10 70 03 a0 81 1a d0 04 
+P    [2021-04-04 18:50:43.337+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 03 12 10 d0 02 29 50 08 10 c1 0c 20 03 00 00 00 00 00 3c 
+P    [2021-04-04 18:50:43.338+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 03 13 10 80 04 c0 00 30 41 12 80 03 a8 00 0a f0 01 60 04 
+P    [2021-04-04 18:50:43.348+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 3
+P    [2021-04-04 18:50:43.350+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 2
+P    [2021-04-04 18:50:43.351+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 4
+P    [2021-04-04 18:50:43.352+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 3
+P    [2021-04-04 18:50:43.372+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 03 14 10 41 f0 0c 84 84 3f 60 0d 80 d5 2e a1 3f b8 97 5e 
+P    [2021-04-04 18:50:43.552+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 03 15 10 31 46 68 19 8b 41 4b 44 96 49 e1 41 d4 58 70 81 
+P    [2021-04-04 18:50:43.553+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 03 16 10 49 b0 55 46 31 40 30 94 2e c1 3b 3c d7 5d d1 44 
+P    [2021-04-04 18:50:43.553+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 03 17 10 50 cd cb 60 27 80 17 5e 91 45 00 da 8d f1 4c 74 
+P    [2021-04-04 18:50:43.554+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 03 18 10 57 5c 71 45 78 02 26 50 07 d0 80 0f 70 02 00 00 
+P    [2021-04-04 18:50:43.555+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 03 19 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:50:43.556+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 03 1a 0c 00 00 4c 40 05 e0 00 f4 41 1f c0 05 
+P    [2021-04-04 18:50:43.556+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 ee 00 
+P    [2021-04-04 18:50:43.557+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 08 03 02 )
+P    [2021-04-04 18:50:43.559+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:50:43.559+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 08 03 02 
+P    [2021-04-04 18:50:43.565+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 5
+P    [2021-04-04 18:50:43.566+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 4
+E    [2021-04-04 18:50:43.567+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 8
+P    [2021-04-04 18:50:43.567+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 8
+P    [2021-04-04 18:50:43.568+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 7
+P    [2021-04-04 18:50:43.643+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 08 03 02 )
+P    [2021-04-04 18:50:43.643+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 03 02 00 00 
+E    [2021-04-04 18:50:43.647+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 8
+P    [2021-04-04 18:50:43.657+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 08 04 01 00 00 )
+P    [2021-04-04 18:50:43.657+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:50:43.658+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 08 04 01 00 00 
+P    [2021-04-04 18:50:43.665+0200]        [IDO_CMD             ]    [SYNC_DATA] saveSportData, jsonData={
+	"day" : 4,
+	"items" : 
+	[
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 11,
+			"calory" : 1,
+			"distance" : 19,
+			"stepCount" : 26
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 8,
+			"calory" : 3,
+			"distance" : 34,
+			"stepCount" : 46
+		},
+		{
+			"activeTime" : 8,
+			"calory" : 8,
+			"distance" : 109,
+			"stepCount" : 147
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 3,
+			"calory" : 8,
+			"distance" : 117,
+			"stepCount" : 158
+		},
+		{
+			"activeTime" : 8,
+			"calory" : 67,
+			"distance" : 905,
+			"stepCount" : 1224
+		},
+		{
+			"activeTime" : 2,
+			"calory" : 4,
+			"distance" : 62,
+			"stepCount" : 83
+		},
+		{
+			"activeTime" : 1,
+			"calory" : 2,
+			"distance" : 14,
+			"stepCount" : 19
+		},
+		{
+			"activeTime" : 4,
+			"calory" : 0,
+			"distance" : 9,
+			"stepCount" : 13
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 11,
+			"calory" : 36,
+			"distance" : 489,
+			"stepCount" : 660
+		},
+		{
+			"activeTime" : 12,
+			"calory" : 32,
+			"distance" : 434,
+			"stepCount" : 587
+		},
+		{
+			"activeTime" : 3,
+			"calory" : 4,
+			"distance" : 55,
+			"stepCount" : 74
+		},
+		{
+			"activeTime" : 10,
+			"calory" : 6,
+			"distance" : 77,
+			"stepCount" : 104
+		},
+		{
+			"activeTime" : 4,
+			"calory" : 10,
+			"distance" : 133,
+			"stepCount" : 180
+		},
+		{
+			"activeTime" : 3,
+			"calory" : 3,
+			"distance" : 50,
+			"stepCount" : 68
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 2,
+			"calory" : 1,
+			"distance" : 12,
+			"stepCount" : 15
+		},
+		{
+			"activeTime" : 9,
+			"calory" : 4,
+			"distance" : 56,
+			"stepCount" : 76
+		},
+		{
+			"activeTime" : 8,
+			"calory" : 2,
+			"distance" : 31,
+			"stepCount" : 42
+		},
+		{
+			"activeTime" : 4,
+			"calory" : 16,
+			"distance" : 207,
+			"stepCount" : 280
+		},
+		{
+			"activeTime" : 14,
+			"calory" : 15,
+			"distance" : 214,
+			"stepCount" : 289
+		},
+		{
+			"activeTime" : 11,
+			"calory" : 75,
+			"distance" : 1018,
+			"stepCount" : 1376
+		},
+		{
+			"activeTime" : 10,
+			"calory" : 87,
+			"distance" : 1123,
+			"stepCount" : 1518
+		},
+		{
+			"activeTime" : 12,
+			"calory" : 98,
+			"distance" : 1204,
+			"stepCount" : 1626
+		},
+		{
+			"activeTime" : 6,
+			"calory" : 82,
+			"distance" : 1054,
+			"stepCount" : 1425
+		},
+		{
+			"activeTime" : 1,
+			"calory" : 92,
+			"distance" : 1176,
+			"stepCount" : 1589
+		},
+		{
+			"activeTime" : 9,
+			"calory" : 81,
+			"distance" : 1027,
+			"stepCount" : 1388
+		},
+		{
+			"activeTime" : 10,
+			"calory" : 75,
+			"distance" : 956,
+			"stepCount" : 1292
+		},
+		{
+			"activeTime" : 7,
+			"calory" : 87,
+			"distance" : 1101,
+			"stepCount" : 1487
+		},
+		{
+			"activeTime" : 15,
+			"calory" : 50,
+			"distance" : 630,
+			"stepCount" : 852
+		},
+		{
+			"activeTime" : 8,
+			"calory" : 87,
+			"distance" : 1113,
+			"stepCount" : 1504
+		},
+		{
+			"activeTime" : 7,
+			"calory" : 99,
+			"distance" : 1231,
+			"stepCount" : 1664
+		},
+		{
+			"activeTime" : 1,
+			"calory" : 87,
+			"distance" : 1111,
+			"stepCount" : 1501
+		},
+		{
+			"activeTime" : 8,
+			"calory" : 9,
+			"distance" : 117,
+			"stepCount" : 158
+		},
+		{
+			"activeTime" : 14,
+			"calory" : 3,
+			"distance" : 39,
+			"stepCount" : 52
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 5,
+			"calory" : 1,
+			"distance" : 14,
+			"stepCount" : 19
+		},
+		{
+			"activeTime" : 13,
+			"calory" : 7,
+			"distance" : 92,
+			"stepCount" : 125
+		}
+	],
+	"keyword" : 0,
+	"month" : 4,
+	"startTime" : 0,
+	"timeSpace" : 15,
+	"totalActiveTime" : 11110,
+	"totalCalory" : 1242,
+	"totalDistance" : 16033,
+	"totalStepCount" : 21667,
+	"year" : 2021
+}
+
+P    [2021-04-04 18:50:43.731+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 08 04 01 00 00 )
+P    [2021-04-04 18:50:43.732+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 04 01 0c e5 07 04 04 07 38 f8 01 13 04 00 00 fc b4 00 20 
+P    [2021-04-04 18:50:43.732+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 04 02 09 0a 09 00 74 01 84 00 00 fc b4 00 20 ec b4 00 20 
+P    [2021-04-04 18:50:43.733+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 04 03 10 02 12 03 26 02 18 03 0c 02 17 03 07 02 08 03 09 
+P    [2021-04-04 18:50:43.733+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 04 04 10 02 1f 03 0c 02 08 03 0a 02 1b 03 13 02 24 03 08 
+P    [2021-04-04 18:50:43.734+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 04 05 06 02 1f 03 11 02 a6 
+P    [2021-04-04 18:50:43.735+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 ee 03 
+P    [2021-04-04 18:50:43.735+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 08 04 02 )
+P    [2021-04-04 18:50:43.735+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:50:43.735+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 08 04 02 
+E    [2021-04-04 18:50:43.747+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 8
+E    [2021-04-04 18:50:43.747+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 8
+P    [2021-04-04 18:50:43.747+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 9
+P    [2021-04-04 18:50:43.748+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 8
+E    [2021-04-04 18:50:43.748+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 8
+P    [2021-04-04 18:50:43.748+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 11
+P    [2021-04-04 18:50:43.749+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 10
+P    [2021-04-04 18:50:43.822+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 08 04 02 )
+P    [2021-04-04 18:50:43.958+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 04 02 00 00 
+E    [2021-04-04 18:50:43.962+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 8
+P    [2021-04-04 18:50:43.964+0200]        [IDO_CMD             ]    [SYNC_DATA] saveSleepData, jsonData={
+	"awakeCount" : 0,
+	"day" : 4,
+	"deepSleepCount" : 9,
+	"deepSleepMinutes" : 132,
+	"items" : 
+	[
+		{
+			"offsetMinute" : 18,
+			"sleepStatus" : 2
+		},
+		{
+			"offsetMinute" : 38,
+			"sleepStatus" : 3
+		},
+		{
+			"offsetMinute" : 24,
+			"sleepStatus" : 2
+		},
+		{
+			"offsetMinute" : 12,
+			"sleepStatus" : 3
+		},
+		{
+			"offsetMinute" : 23,
+			"sleepStatus" : 2
+		},
+		{
+			"offsetMinute" : 7,
+			"sleepStatus" : 3
+		},
+		{
+			"offsetMinute" : 8,
+			"sleepStatus" : 2
+		},
+		{
+			"offsetMinute" : 9,
+			"sleepStatus" : 3
+		},
+		{
+			"offsetMinute" : 31,
+			"sleepStatus" : 2
+		},
+		{
+			"offsetMinute" : 12,
+			"sleepStatus" : 3
+		},
+		{
+			"offsetMinute" : 8,
+			"sleepStatus" : 2
+		},
+		{
+			"offsetMinute" : 10,
+			"sleepStatus" : 3
+		},
+		{
+			"offsetMinute" : 27,
+			"sleepStatus" : 2
+		},
+		{
+			"offsetMinute" : 19,
+			"sleepStatus" : 3
+		},
+		{
+			"offsetMinute" : 36,
+			"sleepStatus" : 2
+		},
+		{
+			"offsetMinute" : 8,
+			"sleepStatus" : 3
+		},
+		{
+			"offsetMinute" : 31,
+			"sleepStatus" : 2
+		},
+		{
+			"offsetMinute" : 17,
+			"sleepStatus" : 3
+		},
+		{
+			"offsetMinute" : 166,
+			"sleepStatus" : 2
+		}
+	],
+	"lightSleepCount" : 10,
+	"lightSleepMinutes" : 372,
+	"month" : 4,
+	"sleepEndedTimeH" : 7,
+	"sleepEndedTimeM" : 56,
+	"sleepScore" : 0,
+	"totalSleepMinutes" : 504,
+	"year" : 2021
+}
+
+P    [2021-04-04 18:50:43.970+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 08 07 01 00 00 )
+P    [2021-04-04 18:50:43.970+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:50:43.970+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 08 07 01 00 00 
+P    [2021-04-04 18:50:44.047+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 08 07 01 00 00 )
+P    [2021-04-04 18:50:44.048+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 07 01 0c e5 07 04 04 05 00 46 a8 00 1c 00 00 fc b4 00 20 
+P    [2021-04-04 18:50:44.049+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 07 02 11 6c 7d a2 1b 00 06 00 00 00 5a 67 00 90 00 00 00 
+P    [2021-04-04 18:50:44.050+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 07 03 10 00 49 05 4c 05 4e 06 4c 05 4e 05 4b 06 44 05 45 
+P    [2021-04-04 18:50:44.051+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 07 04 10 05 3e 06 45 05 44 05 4a 06 45 05 44 05 49 06 50 
+P    [2021-04-04 18:50:44.052+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 07 05 10 05 49 05 41 06 46 05 48 05 44 06 46 05 42 05 43 
+P    [2021-04-04 18:50:44.052+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 07 06 10 06 40 05 46 05 47 06 48 05 49 05 49 06 49 05 48 
+P    [2021-04-04 18:50:44.053+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 07 07 10 05 49 06 42 05 44 05 41 06 3f 05 43 05 3d 06 47 
+P    [2021-04-04 18:50:44.054+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 07 08 10 05 41 05 45 06 53 05 46 05 48 06 45 05 43 05 45 
+E    [2021-04-04 18:50:44.064+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 8
+E    [2021-04-04 18:50:44.065+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 8
+P    [2021-04-04 18:50:44.065+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 12
+P    [2021-04-04 18:50:44.067+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 11
+P    [2021-04-04 18:50:44.068+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 13
+P    [2021-04-04 18:50:44.069+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 12
+P    [2021-04-04 18:50:44.092+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 07 09 10 06 47 05 43 05 42 06 45 05 42 05 41 06 41 05 3b 
+P    [2021-04-04 18:50:44.317+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 07 0a 10 05 42 06 45 05 44 05 45 06 49 05 46 05 3e 06 4f 
+P    [2021-04-04 18:50:44.318+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 07 0b 10 05 43 05 3b 06 3c 05 43 05 3c 06 49 05 48 05 49 
+P    [2021-04-04 18:50:44.319+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 07 0c 10 06 43 05 44 05 44 06 49 05 44 05 46 06 48 05 45 
+P    [2021-04-04 18:50:44.320+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 07 0d 10 05 49 06 4e 05 46 05 4d 06 4a 05 48 05 50 06 45 
+P    [2021-04-04 18:50:44.322+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 07 0e 10 05 47 05 4f 06 48 05 53 06 53 05 4d 05 42 06 4f 
+P    [2021-04-04 18:50:44.323+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 07 0f 10 05 4c 05 4a 06 49 05 52 07 42 05 43 05 54 06 4e 
+P    [2021-04-04 18:50:44.324+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 07 10 10 05 5f 05 4c 06 45 05 4b 05 3f 16 5c 05 46 06 58 
+P    [2021-04-04 18:50:44.325+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 07 11 10 05 5e 05 52 06 5a 05 4e 05 59 06 45 05 5c 06 58 
+P    [2021-04-04 18:50:44.326+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 07 12 10 05 58 15 45 06 48 05 5b 05 41 06 53 05 52 05 53 
+P    [2021-04-04 18:50:44.330+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 14
+P    [2021-04-04 18:50:44.332+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 13
+P    [2021-04-04 18:50:44.332+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 15
+P    [2021-04-04 18:50:44.334+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 14
+P    [2021-04-04 18:50:44.362+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 07 13 10 06 4a 05 4e 05 48 06 61 05 57 05 45 06 53 05 55 
+P    [2021-04-04 18:50:44.452+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 07 14 10 05 5d 06 3c 05 49 06 48 05 47 05 47 06 40 05 62 
+P    [2021-04-04 18:50:44.453+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 07 15 10 05 44 06 6a 05 52 05 51 0a 71 c5 51 05 40 05 48 
+P    [2021-04-04 18:50:44.454+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 07 16 10 06 59 05 5b 05 4b 06 48 06 54 05 51 05 4f 06 45 
+P    [2021-04-04 18:50:44.455+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 07 17 10 05 41 06 4e 05 50 05 38 06 4e 05 4f 05 4a 06 4b 
+P    [2021-04-04 18:50:44.456+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 ee 04 
+P    [2021-04-04 18:50:44.457+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 08 07 02 )
+P    [2021-04-04 18:50:44.457+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:50:44.458+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 08 07 02 
+P    [2021-04-04 18:50:44.472+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 16
+P    [2021-04-04 18:50:44.474+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 15
+E    [2021-04-04 18:50:44.474+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 8
+P    [2021-04-04 18:50:44.475+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 50
+P    [2021-04-04 18:50:44.476+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 47
+P    [2021-04-04 18:50:44.542+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 08 07 02 )
+P    [2021-04-04 18:50:44.543+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 07 02 00 00 
+E    [2021-04-04 18:50:44.547+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 8
+P    [2021-04-04 18:50:44.558+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 08 05 01 00 00 )
+P    [2021-04-04 18:50:44.558+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:50:44.558+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 08 05 01 00 00 
+P    [2021-04-04 18:50:44.564+0200]        [IDO_CMD             ]    [SYNC_DATA] saveHeartRateData, jsonData={
+	"aerobic_mins" : 6,
+	"aerobic_threshold" : 125,
+	"anaerobicMins" : 0,
+	"anaerobicThreshold" : 144,
+	"burn_fat_mins" : 27,
+	"burn_fat_threshold" : 108,
+	"day" : 4,
+	"items" : 
+	[
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 0
+		},
+		{
+			"HeartRaveValue" : 76,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 78,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 76,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 78,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 75,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 68,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 62,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 68,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 74,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 68,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 80,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 65,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 70,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 68,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 70,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 66,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 67,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 64,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 70,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 71,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 66,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 68,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 65,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 63,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 67,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 61,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 71,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 65,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 83,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 70,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 67,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 71,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 67,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 66,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 66,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 65,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 65,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 59,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 66,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 68,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 70,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 62,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 79,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 67,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 59,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 60,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 67,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 60,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 67,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 68,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 68,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 68,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 70,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 78,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 70,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 77,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 74,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 80,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 71,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 79,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 83,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 83,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 77,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 66,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 79,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 76,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 74,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 82,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 66,
+			"offsetMinute" : 7
+		},
+		{
+			"HeartRaveValue" : 67,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 84,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 78,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 95,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 76,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 75,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 63,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 92,
+			"offsetMinute" : 22
+		},
+		{
+			"HeartRaveValue" : 70,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 88,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 94,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 82,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 90,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 78,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 89,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 92,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 88,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 88,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 21
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 91,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 65,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 83,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 82,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 83,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 74,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 78,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 97,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 87,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 83,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 85,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 93,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 60,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 71,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 71,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 64,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 98,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 68,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 106,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 82,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 81,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 113,
+			"offsetMinute" : 10
+		},
+		{
+			"HeartRaveValue" : 81,
+			"offsetMinute" : 197
+		},
+		{
+			"HeartRaveValue" : 64,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 89,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 91,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 75,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 84,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 81,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 79,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 65,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 78,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 80,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 56,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 78,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 79,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 74,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 75,
+			"offsetMinute" : 6
+		}
+	],
+	"limit_mins" : 0,
+	"limit_threshold" : 162,
+	"month" : 4,
+	"silentHeart" : 70,
+	"startTime" : 5,
+	"warmUpMins" : 103,
+	"warmUpThreshold" : 90,
+	"year" : 2021
+}
+
+P    [2021-04-04 18:50:44.629+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:44.629+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:44.677+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 08 05 01 00 00 )
+P    [2021-04-04 18:50:44.680+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 01 0c e5 07 04 03 00 00 0f 60 28 00 00 00 fc b4 00 20 
+P    [2021-04-04 18:50:44.681+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 02 12 16 19 00 00 5e 01 00 00 91 12 00 00 8c 0b 00 00 
+P    [2021-04-04 18:50:44.682+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 03 10 28 80 04 80 00 3c 80 04 b0 00 00 00 00 00 00 00 
+P    [2021-04-04 18:50:44.682+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 04 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:50:44.682+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 05 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:50:44.684+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 06 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:50:44.685+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 07 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+E    [2021-04-04 18:50:44.695+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 8
+P    [2021-04-04 18:50:44.696+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 51
+P    [2021-04-04 18:50:44.697+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 48
+E    [2021-04-04 18:50:44.697+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 8
+P    [2021-04-04 18:50:44.698+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 52
+P    [2021-04-04 18:50:44.698+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 49
+P    [2021-04-04 18:50:44.723+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 08 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:50:44.766+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 09 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:50:44.812+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 0a 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:50:44.903+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 0b 10 00 00 2c 80 00 80 00 00 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:50:44.904+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 0c 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:50:44.904+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 0d 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 5c 
+P    [2021-04-04 18:50:44.905+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 0e 10 80 04 10 01 00 00 00 00 00 58 02 24 f0 06 8c 80 
+P    [2021-04-04 18:50:44.905+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 0f 10 0a a0 01 b8 80 0b 20 02 7c 02 24 60 07 00 00 00 
+P    [2021-04-04 18:50:44.906+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 10 10 00 00 00 00 00 00 00 b4 01 1b 00 05 00 00 00 00 
+P    [2021-04-04 18:50:44.906+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 11 10 00 28 00 00 80 00 00 00 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:50:44.907+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 12 10 00 00 00 00 00 00 00 00 00 00 60 80 05 10 01 40 
+P    [2021-04-04 18:50:44.907+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 13 10 00 05 c0 00 00 4a 8c a0 1d f4 18 5f e1 49 44 d9 
+P    [2021-04-04 18:50:44.914+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 53
+P    [2021-04-04 18:50:44.916+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 50
+P    [2021-04-04 18:50:44.916+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 54
+P    [2021-04-04 18:50:44.917+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 51
+P    [2021-04-04 18:50:44.948+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 14 10 63 c1 4a f0 cd c6 40 29 0c c2 1f 10 06 00 00 00 
+P    [2021-04-04 18:50:44.963+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 55
+P    [2021-04-04 18:50:44.965+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 52
+P    [2021-04-04 18:50:45.084+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 15 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:50:45.085+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 16 10 00 00 00 00 00 00 2c 80 00 80 00 28 44 3c 50 0c 
+P    [2021-04-04 18:50:45.086+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 17 10 4c c4 3d c0 0c 08 c0 00 10 00 b8 80 0e 20 02 30 
+P    [2021-04-04 18:50:45.087+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 18 10 00 01 90 00 00 00 00 00 00 38 00 05 a0 00 00 00 
+P    [2021-04-04 18:50:45.087+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 19 10 00 00 00 64 80 05 30 01 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:50:45.088+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 1a 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:50:45.089+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 1b 10 00 00 00 00 00 00 44 80 05 c0 00 44 80 05 d0 00 
+P    [2021-04-04 18:50:45.089+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 1c 10 84 00 0a 80 01 c0 41 18 30 05 00 00 00 00 00 00 
+P    [2021-04-04 18:50:45.096+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 1d 10 00 00 00 00 88 c0 08 a0 01 00 00 00 00 00 50 c0 
+P    [2021-04-04 18:50:45.099+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 56
+P    [2021-04-04 18:50:45.103+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 53
+P    [2021-04-04 18:50:45.117+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 57
+P    [2021-04-04 18:50:45.120+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 54
+P    [2021-04-04 18:50:45.270+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 1e 10 04 e0 00 00 00 00 00 00 2c 80 04 80 00 00 00 00 
+P    [2021-04-04 18:50:45.581+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 1f 10 00 00 a8 80 0b 00 02 00 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:50:45.582+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 20 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:50:45.583+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 ee 01 
+P    [2021-04-04 18:50:45.584+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 08 05 02 )
+P    [2021-04-04 18:50:45.588+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:50:45.588+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 08 05 02 
+E    [2021-04-04 18:50:45.598+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 8
+P    [2021-04-04 18:50:45.599+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 58
+P    [2021-04-04 18:50:45.600+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 55
+P    [2021-04-04 18:50:45.895+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 08 05 02 )
+P    [2021-04-04 18:50:45.898+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 05 02 00 00 
+E    [2021-04-04 18:50:45.914+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 8
+P    [2021-04-04 18:50:45.916+0200]        [IDO_CMD             ]    [SYNC_DATA] saveSportData, jsonData={
+	"day" : 3,
+	"items" : 
+	[
+		{
+			"activeTime" : 2,
+			"calory" : 1,
+			"distance" : 8,
+			"stepCount" : 10
+		},
+		{
+			"activeTime" : 2,
+			"calory" : 1,
+			"distance" : 11,
+			"stepCount" : 15
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 2,
+			"calory" : 0,
+			"distance" : 8,
+			"stepCount" : 11
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 2,
+			"calory" : 1,
+			"distance" : 17,
+			"stepCount" : 23
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 9,
+			"distance" : 111,
+			"stepCount" : 150
+		},
+		{
+			"activeTime" : 10,
+			"calory" : 2,
+			"distance" : 26,
+			"stepCount" : 35
+		},
+		{
+			"activeTime" : 14,
+			"calory" : 2,
+			"distance" : 34,
+			"stepCount" : 46
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 9,
+			"distance" : 118,
+			"stepCount" : 159
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 12,
+			"calory" : 6,
+			"distance" : 80,
+			"stepCount" : 109
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 8,
+			"stepCount" : 10
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 6,
+			"calory" : 1,
+			"distance" : 17,
+			"stepCount" : 24
+		},
+		{
+			"activeTime" : 4,
+			"calory" : 1,
+			"distance" : 12,
+			"stepCount" : 16
+		},
+		{
+			"activeTime" : 1,
+			"calory" : 35,
+			"distance" : 474,
+			"stepCount" : 640
+		},
+		{
+			"activeTime" : 12,
+			"calory" : 87,
+			"distance" : 1182,
+			"stepCount" : 1597
+		},
+		{
+			"activeTime" : 15,
+			"calory" : 88,
+			"distance" : 1196,
+			"stepCount" : 1617
+		},
+		{
+			"activeTime" : 11,
+			"calory" : 49,
+			"distance" : 660,
+			"stepCount" : 892
+		},
+		{
+			"activeTime" : 15,
+			"calory" : 7,
+			"distance" : 97,
+			"stepCount" : 131
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 2,
+			"calory" : 0,
+			"distance" : 8,
+			"stepCount" : 11
+		},
+		{
+			"activeTime" : 1,
+			"calory" : 15,
+			"distance" : 197,
+			"stepCount" : 266
+		},
+		{
+			"activeTime" : 7,
+			"calory" : 15,
+			"distance" : 204,
+			"stepCount" : 275
+		},
+		{
+			"activeTime" : 3,
+			"calory" : 0,
+			"distance" : 1,
+			"stepCount" : 2
+		},
+		{
+			"activeTime" : 10,
+			"calory" : 3,
+			"distance" : 34,
+			"stepCount" : 46
+		},
+		{
+			"activeTime" : 4,
+			"calory" : 0,
+			"distance" : 9,
+			"stepCount" : 12
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 4,
+			"calory" : 1,
+			"distance" : 10,
+			"stepCount" : 14
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 6,
+			"calory" : 1,
+			"distance" : 19,
+			"stepCount" : 25
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 6,
+			"calory" : 1,
+			"distance" : 12,
+			"stepCount" : 17
+		},
+		{
+			"activeTime" : 6,
+			"calory" : 1,
+			"distance" : 13,
+			"stepCount" : 17
+		},
+		{
+			"activeTime" : 8,
+			"calory" : 2,
+			"distance" : 24,
+			"stepCount" : 33
+		},
+		{
+			"activeTime" : 1,
+			"calory" : 6,
+			"distance" : 83,
+			"stepCount" : 112
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 3,
+			"calory" : 2,
+			"distance" : 26,
+			"stepCount" : 34
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 3,
+			"calory" : 1,
+			"distance" : 14,
+			"stepCount" : 20
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 2,
+			"calory" : 1,
+			"distance" : 8,
+			"stepCount" : 11
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 14,
+			"calory" : 2,
+			"distance" : 32,
+			"stepCount" : 42
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		},
+		{
+			"activeTime" : 0,
+			"calory" : 0,
+			"distance" : 0,
+			"stepCount" : 0
+		}
+	],
+	"keyword" : 0,
+	"month" : 4,
+	"startTime" : 0,
+	"timeSpace" : 15,
+	"totalActiveTime" : 2956,
+	"totalCalory" : 350,
+	"totalDistance" : 4753,
+	"totalStepCount" : 6422,
+	"year" : 2021
+}
+
+P    [2021-04-04 18:50:45.918+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 08 06 01 00 00 )
+P    [2021-04-04 18:50:45.919+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:50:45.919+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 08 06 01 00 00 
+P    [2021-04-04 18:50:46.209+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 08 06 01 00 00 )
+P    [2021-04-04 18:50:46.211+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 06 01 0c e5 07 04 03 08 11 c2 01 0b 02 00 00 fc b4 00 20 
+P    [2021-04-04 18:50:46.218+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 06 02 09 06 05 00 55 01 6d 00 00 fc b4 00 20 ec b4 00 20 
+E    [2021-04-04 18:50:46.220+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 8
+P    [2021-04-04 18:50:46.224+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 06 03 10 02 13 03 20 02 3e 03 0c 02 0b 03 09 02 49 03 09 
+E    [2021-04-04 18:50:46.232+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 8
+P    [2021-04-04 18:50:46.233+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 59
+P    [2021-04-04 18:50:46.234+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 06 04 06 02 1b 03 2f 02 95 
+P    [2021-04-04 18:50:46.235+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 ee 02 
+P    [2021-04-04 18:50:46.236+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 56
+P    [2021-04-04 18:50:46.236+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 08 06 02 )
+P    [2021-04-04 18:50:46.237+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:50:46.237+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 08 06 02 
+E    [2021-04-04 18:50:46.247+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 8
+P    [2021-04-04 18:50:46.249+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 61
+P    [2021-04-04 18:50:46.251+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 57
+P    [2021-04-04 18:50:46.523+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 08 06 02 )
+P    [2021-04-04 18:50:46.525+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 06 02 00 00 
+E    [2021-04-04 18:50:46.533+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 8
+P    [2021-04-04 18:50:46.545+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 08 08 01 00 00 )
+P    [2021-04-04 18:50:46.545+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:50:46.546+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 08 08 01 00 00 
+P    [2021-04-04 18:50:46.546+0200]        [IDO_CMD             ]    [SYNC_DATA] saveSleepData, jsonData={
+	"awakeCount" : 0,
+	"day" : 3,
+	"deepSleepCount" : 5,
+	"deepSleepMinutes" : 109,
+	"items" : 
+	[
+		{
+			"offsetMinute" : 19,
+			"sleepStatus" : 2
+		},
+		{
+			"offsetMinute" : 32,
+			"sleepStatus" : 3
+		},
+		{
+			"offsetMinute" : 62,
+			"sleepStatus" : 2
+		},
+		{
+			"offsetMinute" : 12,
+			"sleepStatus" : 3
+		},
+		{
+			"offsetMinute" : 11,
+			"sleepStatus" : 2
+		},
+		{
+			"offsetMinute" : 9,
+			"sleepStatus" : 3
+		},
+		{
+			"offsetMinute" : 73,
+			"sleepStatus" : 2
+		},
+		{
+			"offsetMinute" : 9,
+			"sleepStatus" : 3
+		},
+		{
+			"offsetMinute" : 27,
+			"sleepStatus" : 2
+		},
+		{
+			"offsetMinute" : 47,
+			"sleepStatus" : 3
+		},
+		{
+			"offsetMinute" : 149,
+			"sleepStatus" : 2
+		}
+	],
+	"lightSleepCount" : 6,
+	"lightSleepMinutes" : 341,
+	"month" : 4,
+	"sleepEndedTimeH" : 8,
+	"sleepEndedTimeM" : 17,
+	"sleepScore" : 0,
+	"totalSleepMinutes" : 450,
+	"year" : 2021
+}
+
+P    [2021-04-04 18:50:46.841+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 08 08 01 00 00 )
+P    [2021-04-04 18:50:46.842+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 01 0c e5 07 04 03 02 00 4f 04 01 2c 00 00 fc b4 00 20 
+P    [2021-04-04 18:50:46.844+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 02 11 6c 7d a2 00 00 00 00 00 00 5a 00 00 90 00 00 00 
+P    [2021-04-04 18:50:46.845+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 03 10 00 45 05 41 06 45 05 57 05 44 06 4d 05 4e 05 48 
+P    [2021-04-04 18:50:46.845+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 04 10 06 4b 05 48 05 4b 06 49 05 4b 05 4b 06 4c 05 4c 
+P    [2021-04-04 18:50:46.846+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 05 10 05 4c 06 4e 05 48 05 49 06 4b 05 47 05 50 06 45 
+P    [2021-04-04 18:50:46.846+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 06 10 05 52 05 4b 06 4a 05 48 05 45 06 4c 05 4b 05 4c 
+P    [2021-04-04 18:50:46.847+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 07 10 06 4b 05 47 05 4c 06 4a 05 49 05 48 06 48 05 49 
+P    [2021-04-04 18:50:46.847+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 08 10 05 48 06 49 05 53 05 51 06 41 05 4b 05 4d 06 4b 
+E    [2021-04-04 18:50:46.860+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 8
+P    [2021-04-04 18:50:46.861+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 62
+P    [2021-04-04 18:50:46.862+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 58
+E    [2021-04-04 18:50:46.863+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 8
+P    [2021-04-04 18:50:46.863+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 63
+P    [2021-04-04 18:50:46.864+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 59
+P    [2021-04-04 18:50:47.000+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 09 10 05 45 05 49 06 47 05 45 05 43 06 47 05 46 05 43 
+P    [2021-04-04 18:50:47.002+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 0a 10 06 48 05 47 05 48 06 49 05 46 05 49 06 44 05 46 
+P    [2021-04-04 18:50:47.011+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 64
+P    [2021-04-04 18:50:47.012+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 60
+P    [2021-04-04 18:50:47.469+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 0b 10 05 4b 06 45 05 45 05 48 06 49 05 4b 05 4c 06 48 
+P    [2021-04-04 18:50:47.471+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 0c 10 05 45 05 43 06 46 05 46 05 42 06 45 05 47 05 45 
+P    [2021-04-04 18:50:47.472+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 0d 10 06 46 05 46 05 4e 06 4c 05 50 05 49 06 50 05 50 
+P    [2021-04-04 18:50:47.477+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 0e 10 05 53 06 4c 05 49 05 4e 06 4c 05 58 05 58 06 50 
+P    [2021-04-04 18:50:47.483+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 0f 10 05 51 05 56 06 53 05 54 05 4d 06 55 05 59 05 51 
+P    [2021-04-04 18:50:47.484+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 10 10 06 53 06 51 06 5d 05 4b 05 4a 06 5c 05 4b 06 47 
+P    [2021-04-04 18:50:47.484+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 11 10 05 45 05 3a 06 3e 05 54 05 5c 06 57 05 52 05 4f 
+P    [2021-04-04 18:50:47.485+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 12 10 05 5a 05 44 06 55 06 4f 05 47 05 4e 06 4a 05 47 
+P    [2021-04-04 18:50:47.485+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 13 10 05 50 06 4f 05 51 05 4d 06 4e 05 4c 05 57 06 59 
+P    [2021-04-04 18:50:47.496+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 65
+P    [2021-04-04 18:50:47.498+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 61
+P    [2021-04-04 18:50:47.499+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 66
+P    [2021-04-04 18:50:47.500+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 62
+P    [2021-04-04 18:50:47.626+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 14 10 05 50 05 54 06 54 05 5d 05 61 06 58 05 47 06 39 
+P    [2021-04-04 18:50:47.964+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 15 10 05 57 05 4e 06 71 39 5b 05 60 06 45 05 5e 05 58 
+P    [2021-04-04 18:50:47.965+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 16 10 06 57 05 63 05 52 06 59 05 5e 05 43 06 5d 05 4b 
+P    [2021-04-04 18:50:47.966+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 17 10 05 48 06 51 05 51 05 52 06 4a 05 59 05 4a 06 4e 
+P    [2021-04-04 18:50:47.967+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 18 10 05 5f 06 47 05 4b 05 4f 06 81 05 4c 05 57 06 50 
+P    [2021-04-04 18:50:47.968+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 19 10 05 4c 05 50 06 66 05 54 05 52 06 4e 05 5f 05 46 
+P    [2021-04-04 18:50:47.969+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 1a 10 06 45 05 4a 06 4e 05 4a 05 4a 06 55 05 48 05 5a 
+P    [2021-04-04 18:50:47.970+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 1b 10 06 5c 05 4f 05 55 06 57 05 51 05 5a 06 4e 05 47 
+P    [2021-04-04 18:50:47.972+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 1c 10 06 4d 05 48 05 54 05 58 06 4e 05 3e 06 57 05 52 
+P    [2021-04-04 18:50:47.979+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 67
+P    [2021-04-04 18:50:47.983+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 63
+P    [2021-04-04 18:50:48.099+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 1d 10 05 53 06 58 05 53 05 51 06 43 05 50 05 47 06 41 
+P    [2021-04-04 18:50:48.101+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 1e 10 05 4e 06 4b 05 40 05 51 06 4e 05 43 05 44 06 3e 
+P    [2021-04-04 18:50:48.112+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 68
+P    [2021-04-04 18:50:48.115+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 64
+P    [2021-04-04 18:50:48.593+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 1f 10 05 46 06 4c 05 4f 05 5a 06 44 05 48 05 4f 06 48 
+P    [2021-04-04 18:50:48.594+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 20 10 05 5c 05 48 06 54 05 4c 05 4b 06 49 05 4a 06 4b 
+P    [2021-04-04 18:50:48.595+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 21 10 05 41 05 55 05 54 06 3e 05 4d 06 4a 05 48 05 4a 
+P    [2021-04-04 18:50:48.596+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 22 10 06 46 05 49 05 45 06 44 05 48 05 45 06 48 05 49 
+P    [2021-04-04 18:50:48.596+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 23 08 05 49 06 47 05 49 05 4c 
+P    [2021-04-04 18:50:48.597+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 ee 05 
+P    [2021-04-04 18:50:48.598+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 08 08 02 )
+P    [2021-04-04 18:50:48.598+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:50:48.598+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 08 08 02 
+P    [2021-04-04 18:50:48.611+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 69
+P    [2021-04-04 18:50:48.613+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 65
+E    [2021-04-04 18:50:48.613+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 8
+P    [2021-04-04 18:50:48.614+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 99
+P    [2021-04-04 18:50:48.615+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 94
+P    [2021-04-04 18:50:48.886+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 08 08 02 )
+P    [2021-04-04 18:50:48.889+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 08 02 00 00 
+E    [2021-04-04 18:50:48.911+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 8
+P    [2021-04-04 18:50:48.928+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 08 02 00 )
+P    [2021-04-04 18:50:48.929+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:50:48.929+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 08 02 00 
+P    [2021-04-04 18:50:48.930+0200]        [IDO_CMD             ]    [SYNC_DATA] saveHeartRateData, jsonData={
+	"aerobic_mins" : 0,
+	"aerobic_threshold" : 125,
+	"anaerobicMins" : 0,
+	"anaerobicThreshold" : 144,
+	"burn_fat_mins" : 0,
+	"burn_fat_threshold" : 108,
+	"day" : 3,
+	"items" : 
+	[
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 0
+		},
+		{
+			"HeartRaveValue" : 65,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 87,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 68,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 77,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 78,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 75,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 75,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 75,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 75,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 76,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 76,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 76,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 78,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 75,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 71,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 80,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 82,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 75,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 74,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 76,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 75,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 76,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 75,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 71,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 76,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 74,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 83,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 81,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 65,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 75,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 77,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 75,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 71,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 67,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 71,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 70,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 67,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 71,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 70,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 68,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 70,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 75,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 75,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 76,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 67,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 70,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 70,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 66,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 71,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 70,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 70,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 78,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 76,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 80,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 80,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 80,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 83,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 76,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 78,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 76,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 88,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 88,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 80,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 81,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 86,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 83,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 84,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 77,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 85,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 89,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 81,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 83,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 81,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 93,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 75,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 74,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 92,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 75,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 71,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 58,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 62,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 84,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 92,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 87,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 82,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 79,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 90,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 68,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 85,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 79,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 71,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 78,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 74,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 71,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 80,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 79,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 81,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 77,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 78,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 76,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 87,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 89,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 80,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 84,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 84,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 93,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 97,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 88,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 71,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 57,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 87,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 78,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 113,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 91,
+			"offsetMinute" : 57
+		},
+		{
+			"HeartRaveValue" : 96,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 94,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 88,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 87,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 99,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 82,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 89,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 94,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 67,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 93,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 75,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 81,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 81,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 82,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 74,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 89,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 74,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 78,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 95,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 71,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 75,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 79,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 129,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 76,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 87,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 80,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 76,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 80,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 102,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 84,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 82,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 78,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 95,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 70,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 74,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 78,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 74,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 74,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 85,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 90,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 92,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 79,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 85,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 87,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 81,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 90,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 78,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 71,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 77,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 84,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 88,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 78,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 62,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 87,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 82,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 83,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 88,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 83,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 81,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 67,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 80,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 71,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 65,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 78,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 75,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 64,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 81,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 78,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 67,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 68,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 62,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 70,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 76,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 79,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 90,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 68,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 79,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 92,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 84,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 76,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 75,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 74,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 75,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 65,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 85,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 84,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 62,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 77,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 74,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 74,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 70,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 68,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 69,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 72,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 71,
+			"offsetMinute" : 6
+		},
+		{
+			"HeartRaveValue" : 73,
+			"offsetMinute" : 5
+		},
+		{
+			"HeartRaveValue" : 76,
+			"offsetMinute" : 5
+		}
+	],
+	"limit_mins" : 0,
+	"limit_threshold" : 162,
+	"month" : 4,
+	"silentHeart" : 79,
+	"startTime" : 2,
+	"warmUpMins" : 0,
+	"warmUpThreshold" : 90,
+	"year" : 2021
+}
+
+P    [2021-04-04 18:50:49.202+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 08 02 00 )
+P    [2021-04-04 18:50:49.643+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:49.645+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:49.675+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 08 02 
+E    [2021-04-04 18:50:49.693+0200]        [SoLibCallBackDispatcher]    [handleCallBackSysEvt] need handle type = 8
+P    [2021-04-04 18:50:49.694+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] progress = 100
+P    [2021-04-04 18:50:49.696+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 95
+P    [2021-04-04 18:50:49.697+0200]        [IDO_CMD             ]    [SYNC_DATA] sync health data success!
+P    [2021-04-04 18:50:49.707+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] onSuccess
+P    [2021-04-04 18:50:49.709+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncHealthTask] finished
+P    [2021-04-04 18:50:49.710+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncActivityTask] start...
+P    [2021-04-04 18:50:49.712+0200]        [IDO_CMD             ]    [SYNC_DATA] start sync activity data...
+P    [2021-04-04 18:50:49.712+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 09 06 01 00 )
+P    [2021-04-04 18:50:49.713+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:50:49.713+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 09 06 01 00 
+P    [2021-04-04 18:50:49.715+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncActivityTask] onStart
+P    [2021-04-04 18:50:49.717+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 97
+P    [2021-04-04 18:50:49.988+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 09 06 01 00 )
+P    [2021-04-04 18:50:49.991+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 01 0d 15 04 04 0e 15 14 11 05 00 11 07 75 00 00 00 00 
+P    [2021-04-04 18:50:50.305+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 02 0b 34 55 3c a4 a9 40 16 01 a6 2c 00 00 00 00 00 00 
+P    [2021-04-04 18:50:50.621+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 03 08 61 a5 1b 00 06 00 00 00 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:50:50.957+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 04 10 46 5a 5a 5a 5b 5e 5b 59 5c 65 75 74 5f 51 56 64 
+P    [2021-04-04 18:50:50.962+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 05 10 6f 72 6b 62 58 4f 4d 4c 4d 53 5a 5d 60 67 6b 6d 
+P    [2021-04-04 18:50:50.964+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 06 10 69 64 65 6b 68 64 64 62 5b 59 5a 5a 59 57 51 4f 
+P    [2021-04-04 18:50:50.965+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 07 10 55 59 5b 60 65 63 60 60 5e 5a 58 5d 65 6d 70 6d 
+P    [2021-04-04 18:50:50.966+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 08 10 73 78 7a 7d 82 84 7e 76 72 70 6e 6c 6c 6c 68 64 
+P    [2021-04-04 18:50:50.967+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 09 10 65 68 69 65 62 69 78 80 81 81 85 8c 9a a5 a1 92 
+P    [2021-04-04 18:50:50.968+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 0a 10 85 80 79 6c 61 58 56 58 5c 65 67 68 67 64 5b 50 
+P    [2021-04-04 18:50:50.968+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 0b 10 4c 4c 4b 4e 53 58 5c 5b 54 4f 52 59 60 65 64 60 
+P    [2021-04-04 18:50:51.094+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 0c 10 5b 58 5a 59 58 5b 5d 59 59 63 6a 66 5d 5b 5b 5b 
+P    [2021-04-04 18:50:51.097+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 0d 10 62 6a 6b 66 5f 61 6f 80 88 86 85 80 77 6d 68 68 
+P    [2021-04-04 18:50:51.428+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 0e 10 6b 70 6f 69 68 6b 6b 65 60 61 66 6a 6d 78 82 86 
+P    [2021-04-04 18:50:51.431+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 0f 10 87 88 8b 8b 8b 8b 8b 86 82 7e 76 6c 61 5c 5a 55 
+P    [2021-04-04 18:50:51.433+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 10 10 53 50 4d 52 58 5b 58 5c 61 5f 5a 59 5a 5b 60 5f 
+P    [2021-04-04 18:50:51.435+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 11 10 61 69 6e 6d 67 66 69 6b 67 60 5b 5a 53 50 5b 6f 
+P    [2021-04-04 18:50:51.436+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 12 10 7a 7b 77 70 64 58 53 54 57 53 4e 51 55 5b 5f 5f 
+P    [2021-04-04 18:50:51.443+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 13 10 5a 57 5b 5e 5c 5d 63 62 5a 54 53 58 5c 61 66 66 
+P    [2021-04-04 18:50:51.445+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 14 10 67 68 67 64 67 6d 76 80 81 77 6e 6e 76 7f 82 84 
+P    [2021-04-04 18:50:51.446+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 15 10 84 83 82 83 82 7b 72 67 5e 5c 62 65 67 62 5c 59 
+P    [2021-04-04 18:50:51.565+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 16 10 5b 5b 5a 58 53 4f 4f 53 55 52 4f 4f 54 57 60 65 
+P    [2021-04-04 18:50:51.567+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 17 10 63 61 60 62 5e 5c 5d 65 69 67 65 64 60 5e 62 6b 
+P    [2021-04-04 18:50:51.902+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 18 10 6f 6f 70 74 6b 5a 4c 49 43 3a 34 33 3e 48 48 49 
+P    [2021-04-04 18:50:51.904+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 19 10 4e 52 53 53 56 59 5b 5b 56 4f 4d 52 57 58 55 52 
+P    [2021-04-04 18:50:51.906+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 1a 10 55 5c 62 5c 54 53 56 5a 5a 58 59 5b 56 4f 4c 54 
+P    [2021-04-04 18:50:51.907+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 1b 10 64 71 6f 66 5a 59 5b 58 56 59 60 63 67 71 7c 81 
+P    [2021-04-04 18:50:51.909+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 1c 10 7f 7e 7d 7a 74 73 74 75 70 6c 6c 69 63 5d 5e 60 
+P    [2021-04-04 18:50:51.912+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 1d 10 62 65 65 62 5e 5f 61 63 62 62 66 6a 6a 67 61 5e 
+P    [2021-04-04 18:50:51.913+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 1e 10 5e 5a 54 4e 4d 4f 52 52 56 54 51 4f 51 53 57 60 
+P    [2021-04-04 18:50:51.914+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 1f 10 68 67 5d 58 5b 63 62 5c 57 5b 60 62 65 62 5e 62 
+P    [2021-04-04 18:50:52.036+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 20 10 6e 6e 61 53 50 56 5e 5b 59 5e 64 68 68 61 5b 5a 
+P    [2021-04-04 18:50:52.038+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 21 10 5b 56 50 4c 4d 4d 4b 48 4c 55 5d 61 63 61 5b 5a 
+P    [2021-04-04 18:50:52.375+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 22 10 67 78 7f 7e 82 82 79 6e 6a 6c 6c 67 5f 5a 5a 5f 
+P    [2021-04-04 18:50:52.377+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 23 10 5e 56 4f 4f 56 5e 63 64 62 5b 59 5f 6c 72 6d 6e 
+P    [2021-04-04 18:50:52.379+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 24 10 72 75 6f 67 64 67 6a 6b 6b 68 60 59 58 5a 62 64 
+P    [2021-04-04 18:50:52.383+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 25 10 65 64 68 69 66 60 5f 5e 5b 5b 63 64 5e 52 50 54 
+P    [2021-04-04 18:50:52.387+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 26 10 56 54 53 5a 64 6a 64 5e 5f 66 6d 76 7e 81 7e 79 
+P    [2021-04-04 18:50:52.392+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 27 10 75 7c 87 8a 89 81 72 6a 6f 73 6f 59 45 41 4c 50 
+P    [2021-04-04 18:50:52.394+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 28 10 4a 3f 3d 48 4e 55 5b 5f 60 61 5f 5c 64 70 79 7b 
+P    [2021-04-04 18:50:52.395+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 29 10 79 75 6b 63 5f 61 64 65 62 5f 5f 66 6b 65 60 61 
+P    [2021-04-04 18:50:52.510+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 2a 10 64 64 63 60 5d 5d 60 67 6c 6b 64 61 5f 5d 58 5c 
+P    [2021-04-04 18:50:52.513+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 2b 10 5f 62 60 5a 56 57 61 67 63 5f 63 6b 6b 63 5f 60 
+P    [2021-04-04 18:50:52.845+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 2c 10 62 63 67 6a 64 5f 5f 69 71 78 7c 7d 7c 77 6f 63 
+P    [2021-04-04 18:50:52.846+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 2d 10 5b 5d 62 66 66 65 62 64 64 62 5d 5b 5a 59 59 58 
+P    [2021-04-04 18:50:52.848+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 2e 10 57 57 5c 5e 59 54 59 5f 63 65 6a 6b 68 66 67 6c 
+P    [2021-04-04 18:50:52.850+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 2f 10 72 7a 7d 80 7e 79 6f 66 60 60 62 64 5f 57 52 5b 
+P    [2021-04-04 18:50:52.852+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 30 10 65 6a 6c 6d 64 5e 62 6c 6e 6f 6c 67 67 6b 6a 66 
+P    [2021-04-04 18:50:52.853+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 31 10 63 59 54 5a 62 66 63 64 64 64 66 6a 67 61 55 4c 
+P    [2021-04-04 18:50:52.854+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 32 10 4b 48 43 3d 37 36 3b 43 42 45 48 50 5d 65 64 61 
+P    [2021-04-04 18:50:52.855+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 33 10 60 5d 58 58 59 5a 54 4b 45 42 45 4e 5d 6a 70 6c 
+P    [2021-04-04 18:50:52.981+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 34 10 67 5e 59 5a 5e 60 5e 63 6d 71 6c 62 59 53 50 53 
+P    [2021-04-04 18:50:52.983+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 35 10 5d 66 68 66 60 55 4c 49 4e 58 5c 5f 5d 5f 61 62 
+P    [2021-04-04 18:50:53.320+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 36 10 61 5c 5a 59 59 56 5b 5a 54 52 55 58 57 59 5c 63 
+P    [2021-04-04 18:50:53.329+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 37 10 69 69 62 5e 5f 6a 72 72 68 62 68 6d 6d 6a 68 64 
+P    [2021-04-04 18:50:53.332+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 38 10 62 64 69 6c 6c 6b 6c 6e 68 5e 53 54 58 59 55 56 
+P    [2021-04-04 18:50:53.334+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 39 10 5d 64 66 66 68 6b 6a 6a 6a 69 69 69 64 60 5e 5c 
+P    [2021-04-04 18:50:53.337+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 3a 10 5b 5b 5f 66 6d 71 71 74 77 7a 7b 79 79 73 6a 61 
+P    [2021-04-04 18:50:53.340+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 3b 10 62 64 66 66 67 67 6a 71 76 7a 7b 7c 7c 79 6f 67 
+P    [2021-04-04 18:50:53.344+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 3c 10 62 61 5e 5f 5f 5c 59 5d 60 58 52 56 59 59 5b 62 
+P    [2021-04-04 18:50:53.345+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 3d 10 63 64 6a 6d 6d 6c 68 61 5f 65 67 64 66 68 66 64 
+P    [2021-04-04 18:50:53.634+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 3e 10 5d 58 5a 62 66 6b 71 71 6a 65 60 60 65 69 66 5e 
+P    [2021-04-04 18:50:53.637+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 3f 10 59 57 5a 5c 5d 5b 5b 5d 5c 57 57 5e 67 6c 6c 69 
+P    [2021-04-04 18:50:53.948+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 40 10 61 5c 5c 60 64 68 66 63 62 63 5d 55 52 51 56 5d 
+P    [2021-04-04 18:50:53.951+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 41 10 65 66 62 64 65 68 71 78 6e 63 64 6c 76 76 71 6a 
+P    [2021-04-04 18:50:53.953+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 42 10 69 66 61 5e 60 65 67 63 5f 5f 63 66 69 6a 68 64 
+P    [2021-04-04 18:50:53.954+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 43 10 5f 64 67 68 69 6a 63 5e 5c 58 57 59 5f 63 64 61 
+P    [2021-04-04 18:50:54.084+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 44 10 63 65 65 64 61 5d 5d 5e 63 6f 79 7a 76 6f 68 64 
+P    [2021-04-04 18:50:54.087+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 45 10 5f 5e 62 65 69 6b 66 61 62 62 5e 5f 63 5b 4d 44 
+P    [2021-04-04 18:50:54.089+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 46 10 3e 3c 39 37 34 35 36 37 34 32 35 3a 4d 5d 62 63 
+P    [2021-04-04 18:50:54.091+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 47 10 64 65 64 65 64 64 63 60 5c 5d 5e 60 5c 54 50 4e 
+P    [2021-04-04 18:50:54.093+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 48 10 52 59 5e 61 65 68 66 69 68 68 63 66 6a 6f 6c 69 
+P    [2021-04-04 18:50:54.094+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 49 10 68 6d 74 71 72 76 78 70 66 5c 57 53 4f 4a 47 4b 
+P    [2021-04-04 18:50:54.577+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 4a 10 52 57 5b 60 69 6a 6b 69 67 63 5e 58 51 4d 4b 4b 
+P    [2021-04-04 18:50:54.578+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 4b 10 4c 51 55 54 52 54 55 56 60 6b 72 6d 66 63 61 5d 
+P    [2021-04-04 18:50:54.579+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 4c 10 5a 5c 61 66 65 66 68 6b 6e 71 77 74 6b 65 66 6a 
+P    [2021-04-04 18:50:54.580+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 4d 10 6e 6e 6e 6d 6c 69 66 65 64 64 67 6d 77 7b 7a 73 
+P    [2021-04-04 18:50:54.580+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 4e 10 68 65 69 6b 68 5e 54 4c 4b 49 41 37 3b 4c 56 55 
+P    [2021-04-04 18:50:54.581+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 4f 10 52 58 61 68 6d 6c 66 5b 52 4f 53 58 5c 61 65 65 
+P    [2021-04-04 18:50:54.582+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 50 10 69 6b 6c 65 5d 59 5d 66 6d 70 76 75 69 61 61 61 
+P    [2021-04-04 18:50:54.582+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 51 10 65 66 66 62 60 63 68 6a 6a 6c 6d 6b 67 63 60 63 
+P    [2021-04-04 18:50:54.659+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:54.661+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:54.714+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 52 10 63 5c 54 52 58 5c 5e 5f 5d 58 56 57 5a 5b 59 56 
+P    [2021-04-04 18:50:54.716+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 53 10 51 4f 52 58 5d 5f 61 64 65 66 65 65 66 66 63 5e 
+P    [2021-04-04 18:50:55.053+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 54 10 5a 5c 5f 5e 57 54 5b 67 6c 6c 6c 71 73 6d 69 6a 
+P    [2021-04-04 18:50:55.058+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 55 10 68 65 67 69 67 66 67 68 6c 70 6e 67 62 62 64 68 
+P    [2021-04-04 18:50:55.059+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 56 10 68 6b 6c 6a 66 68 6a 6a 6b 6d 6d 69 63 5e 5d 60 
+P    [2021-04-04 18:50:55.063+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 57 10 61 62 5f 63 6a 71 77 79 73 6c 6d 6f 6f 6f 6e 6e 
+P    [2021-04-04 18:50:55.064+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 58 10 6f 6f 6c 6b 6b 67 64 68 6d 6e 6c 6a 6b 6c 68 65 
+P    [2021-04-04 18:50:55.065+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 59 10 69 70 72 71 73 73 6e 6b 6b 6e 6d 68 5d 55 52 53 
+P    [2021-04-04 18:50:55.067+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 5a 10 59 5c 5f 67 6d 69 5e 58 58 5d 65 68 69 66 65 67 
+P    [2021-04-04 18:50:55.072+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 5b 10 64 5d 54 55 59 5c 5c 5a 59 5a 5b 58 54 57 5e 64 
+P    [2021-04-04 18:50:55.188+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 5c 10 68 6b 66 63 60 59 51 4f 50 56 5c 5f 62 65 66 68 
+P    [2021-04-04 18:50:55.190+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 5d 10 6a 69 69 67 68 6d 6c 67 66 66 65 67 62 5f 5e 61 
+P    [2021-04-04 18:50:55.683+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 5e 10 61 61 5e 5e 5d 5f 5f 5c 57 56 5a 63 66 67 65 5f 
+P    [2021-04-04 18:50:55.689+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 5f 10 5b 5c 5c 5c 60 64 66 6c 75 76 6f 6b 69 65 62 64 
+P    [2021-04-04 18:50:55.698+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 60 10 61 5a 55 55 55 53 54 5b 62 68 6b 6a 68 6b 6b 65 
+P    [2021-04-04 18:50:55.703+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 61 10 5e 5b 5a 58 57 5d 64 68 66 66 60 58 4e 46 43 3f 
+P    [2021-04-04 18:50:55.705+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 62 10 3b 3b 39 37 36 3c 44 4b 53 60 69 6e 74 77 72 6a 
+P    [2021-04-04 18:50:55.707+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 63 10 65 61 5d 57 58 5e 63 66 67 69 69 68 6a 68 63 62 
+P    [2021-04-04 18:50:55.708+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 64 10 68 76 81 7f 74 68 66 69 6d 71 73 73 6e 6d 6d 6a 
+P    [2021-04-04 18:50:55.709+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 65 10 65 5f 56 54 58 5c 5b 56 53 55 58 59 5a 5d 62 67 
+P    [2021-04-04 18:50:55.817+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 66 10 67 67 68 66 60 59 54 55 59 5e 61 66 67 67 6a 70 
+P    [2021-04-04 18:50:55.821+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 67 10 6c 55 3e 32 33 38 40 44 48 49 4c 54 5e 65 63 60 
+P    [2021-04-04 18:50:56.159+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 68 10 60 61 60 5b 58 53 51 52 55 59 5d 5f 5f 5d 5f 61 
+P    [2021-04-04 18:50:56.163+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 69 10 65 63 60 5a 51 49 4c 59 64 64 67 6a 6d 6a 66 63 
+P    [2021-04-04 18:50:56.167+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 6a 10 63 66 67 67 64 5f 54 4e 4f 54 59 5d 5c 5c 5f 64 
+P    [2021-04-04 18:50:56.172+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 6b 10 6a 6d 6d 67 61 5f 61 66 65 64 64 67 6a 6c 6d 6e 
+P    [2021-04-04 18:50:56.175+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 6c 10 6e 6e 6c 65 61 5c 58 55 55 55 59 5c 5d 5d 5e 5d 
+P    [2021-04-04 18:50:56.179+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 6d 10 5f 5f 60 5d 5d 5d 5d 50 58 57 5f 68 6e 6c 64 60 
+P    [2021-04-04 18:50:56.184+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 6e 10 65 76 84 75 63 58 56 56 5b 60 62 65 66 64 60 5b 
+P    [2021-04-04 18:50:56.186+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 6f 10 5a 5b 5e 60 61 5e 5d 5d 5e 5f 5e 5e 5a 58 60 67 
+P    [2021-04-04 18:50:56.288+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 70 10 66 61 5f 62 65 6a 6c 64 5a 53 51 51 3e 42 51 4d 
+P    [2021-04-04 18:50:56.291+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 71 10 4d 55 61 6c 6d 6c 6c 6a 66 62 5e 5d 5c 5d 5d 5a 
+P    [2021-04-04 18:50:56.624+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 72 10 57 55 56 56 58 5a 58 57 58 5d 6b 77 7d 77 6e 65 
+P    [2021-04-04 18:50:56.625+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 73 10 65 66 66 62 5c 5a 57 50 52 5a 5d 63 6c 6b 61 5e 
+P    [2021-04-04 18:50:56.626+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 74 10 5e 5e 47 4e 4a 4a 4a 4a 47 49 4b 51 5d 6b 6f 6c 
+P    [2021-04-04 18:50:56.626+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 75 01 6b ff ff ff ff ff ff ff ff ff ff ff ff ff ff ff 
+P    [2021-04-04 18:50:56.627+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:50:56.654+0200]        [IDO_CMD             ]    [SYNC_DATA] saveActivityData, jsonData={
+	"aerobic_mins" : 6,
+	"avg_hr_value" : 97,
+	"burn_fat_mins" : 27,
+	"calories" : 1113,
+	"data_length" : 17,
+	"day" : 4,
+	"distance" : 11430,
+	"durations" : 10857,
+	"hour" : 14,
+	"hr_data_interval_minute" : 5,
+	"hr_data_vlaue" : 
+	[
+		70,
+		90,
+		90,
+		90,
+		91,
+		94,
+		91,
+		89,
+		92,
+		101,
+		117,
+		116,
+		95,
+		81,
+		86,
+		100,
+		111,
+		114,
+		107,
+		98,
+		88,
+		79,
+		77,
+		76,
+		77,
+		83,
+		90,
+		93,
+		96,
+		103,
+		107,
+		109,
+		105,
+		100,
+		101,
+		107,
+		104,
+		100,
+		100,
+		98,
+		91,
+		89,
+		90,
+		90,
+		89,
+		87,
+		81,
+		79,
+		85,
+		89,
+		91,
+		96,
+		101,
+		99,
+		96,
+		96,
+		94,
+		90,
+		88,
+		93,
+		101,
+		109,
+		112,
+		109,
+		115,
+		120,
+		122,
+		125,
+		130,
+		132,
+		126,
+		118,
+		114,
+		112,
+		110,
+		108,
+		108,
+		108,
+		104,
+		100,
+		101,
+		104,
+		105,
+		101,
+		98,
+		105,
+		120,
+		128,
+		129,
+		129,
+		133,
+		140,
+		154,
+		165,
+		161,
+		146,
+		133,
+		128,
+		121,
+		108,
+		97,
+		88,
+		86,
+		88,
+		92,
+		101,
+		103,
+		104,
+		103,
+		100,
+		91,
+		80,
+		76,
+		76,
+		75,
+		78,
+		83,
+		88,
+		92,
+		91,
+		84,
+		79,
+		82,
+		89,
+		96,
+		101,
+		100,
+		96,
+		91,
+		88,
+		90,
+		89,
+		88,
+		91,
+		93,
+		89,
+		89,
+		99,
+		106,
+		102,
+		93,
+		91,
+		91,
+		91,
+		98,
+		106,
+		107,
+		102,
+		95,
+		97,
+		111,
+		128,
+		136,
+		134,
+		133,
+		128,
+		119,
+		109,
+		104,
+		104,
+		107,
+		112,
+		111,
+		105,
+		104,
+		107,
+		107,
+		101,
+		96,
+		97,
+		102,
+		106,
+		109,
+		120,
+		130,
+		134,
+		135,
+		136,
+		139,
+		139,
+		139,
+		139,
+		139,
+		134,
+		130,
+		126,
+		118,
+		108,
+		97,
+		92,
+		90,
+		85,
+		83,
+		80,
+		77,
+		82,
+		88,
+		91,
+		88,
+		92,
+		97,
+		95,
+		90,
+		89,
+		90,
+		91,
+		96,
+		95,
+		97,
+		105,
+		110,
+		109,
+		103,
+		102,
+		105,
+		107,
+		103,
+		96,
+		91,
+		90,
+		83,
+		80,
+		91,
+		111,
+		122,
+		123,
+		119,
+		112,
+		100,
+		88,
+		83,
+		84,
+		87,
+		83,
+		78,
+		81,
+		85,
+		91,
+		95,
+		95,
+		90,
+		87,
+		91,
+		94,
+		92,
+		93,
+		99,
+		98,
+		90,
+		84,
+		83,
+		88,
+		92,
+		97,
+		102,
+		102,
+		103,
+		104,
+		103,
+		100,
+		103,
+		109,
+		118,
+		128,
+		129,
+		119,
+		110,
+		110,
+		118,
+		127,
+		130,
+		132,
+		132,
+		131,
+		130,
+		131,
+		130,
+		123,
+		114,
+		103,
+		94,
+		92,
+		98,
+		101,
+		103,
+		98,
+		92,
+		89,
+		91,
+		91,
+		90,
+		88,
+		83,
+		79,
+		79,
+		83,
+		85,
+		82,
+		79,
+		79,
+		84,
+		87,
+		96,
+		101,
+		99,
+		97,
+		96,
+		98,
+		94,
+		92,
+		93,
+		101,
+		105,
+		103,
+		101,
+		100,
+		96,
+		94,
+		98,
+		107,
+		111,
+		111,
+		112,
+		116,
+		107,
+		90,
+		76,
+		73,
+		67,
+		58,
+		52,
+		51,
+		62,
+		72,
+		72,
+		73,
+		78,
+		82,
+		83,
+		83,
+		86,
+		89,
+		91,
+		91,
+		86,
+		79,
+		77,
+		82,
+		87,
+		88,
+		85,
+		82,
+		85,
+		92,
+		98,
+		92,
+		84,
+		83,
+		86,
+		90,
+		90,
+		88,
+		89,
+		91,
+		86,
+		79,
+		76,
+		84,
+		100,
+		113,
+		111,
+		102,
+		90,
+		89,
+		91,
+		88,
+		86,
+		89,
+		96,
+		99,
+		103,
+		113,
+		124,
+		129,
+		127,
+		126,
+		125,
+		122,
+		116,
+		115,
+		116,
+		117,
+		112,
+		108,
+		108,
+		105,
+		99,
+		93,
+		94,
+		96,
+		98,
+		101,
+		101,
+		98,
+		94,
+		95,
+		97,
+		99,
+		98,
+		98,
+		102,
+		106,
+		106,
+		103,
+		97,
+		94,
+		94,
+		90,
+		84,
+		78,
+		77,
+		79,
+		82,
+		82,
+		86,
+		84,
+		81,
+		79,
+		81,
+		83,
+		87,
+		96,
+		104,
+		103,
+		93,
+		88,
+		91,
+		99,
+		98,
+		92,
+		87,
+		91,
+		96,
+		98,
+		101,
+		98,
+		94,
+		98,
+		110,
+		110,
+		97,
+		83,
+		80,
+		86,
+		94,
+		91,
+		89,
+		94,
+		100,
+		104,
+		104,
+		97,
+		91,
+		90,
+		91,
+		86,
+		80,
+		76,
+		77,
+		77,
+		75,
+		72,
+		76,
+		85,
+		93,
+		97,
+		99,
+		97,
+		91,
+		90,
+		103,
+		120,
+		127,
+		126,
+		130,
+		130,
+		121,
+		110,
+		106,
+		108,
+		108,
+		103,
+		95,
+		90,
+		90,
+		95,
+		94,
+		86,
+		79,
+		79,
+		86,
+		94,
+		99,
+		100,
+		98,
+		91,
+		89,
+		95,
+		108,
+		114,
+		109,
+		110,
+		114,
+		117,
+		111,
+		103,
+		100,
+		103,
+		106,
+		107,
+		107,
+		104,
+		96,
+		89,
+		88,
+		90,
+		98,
+		100,
+		101,
+		100,
+		104,
+		105,
+		102,
+		96,
+		95,
+		94,
+		91,
+		91,
+		99,
+		100,
+		94,
+		82,
+		80,
+		84,
+		86,
+		84,
+		83,
+		90,
+		100,
+		106,
+		100,
+		94,
+		95,
+		102,
+		109,
+		118,
+		126,
+		129,
+		126,
+		121,
+		117,
+		124,
+		135,
+		138,
+		137,
+		129,
+		114,
+		106,
+		111,
+		115,
+		111,
+		89,
+		69,
+		65,
+		76,
+		80,
+		74,
+		63,
+		61,
+		72,
+		78,
+		85,
+		91,
+		95,
+		96,
+		97,
+		95,
+		92,
+		100,
+		112,
+		121,
+		123,
+		121,
+		117,
+		107,
+		99,
+		95,
+		97,
+		100,
+		101,
+		98,
+		95,
+		95,
+		102,
+		107,
+		101,
+		96,
+		97,
+		100,
+		100,
+		99,
+		96,
+		93,
+		93,
+		96,
+		103,
+		108,
+		107,
+		100,
+		97,
+		95,
+		93,
+		88,
+		92,
+		95,
+		98,
+		96,
+		90,
+		86,
+		87,
+		97,
+		103,
+		99,
+		95,
+		99,
+		107,
+		107,
+		99,
+		95,
+		96,
+		98,
+		99,
+		103,
+		106,
+		100,
+		95,
+		95,
+		105,
+		113,
+		120,
+		124,
+		125,
+		124,
+		119,
+		111,
+		99,
+		91,
+		93,
+		98,
+		102,
+		102,
+		101,
+		98,
+		100,
+		100,
+		98,
+		93,
+		91,
+		90,
+		89,
+		89,
+		88,
+		87,
+		87,
+		92,
+		94,
+		89,
+		84,
+		89,
+		95,
+		99,
+		101,
+		106,
+		107,
+		104,
+		102,
+		103,
+		108,
+		114,
+		122,
+		125,
+		128,
+		126,
+		121,
+		111,
+		102,
+		96,
+		96,
+		98,
+		100,
+		95,
+		87,
+		82,
+		91,
+		101,
+		106,
+		108,
+		109,
+		100,
+		94,
+		98,
+		108,
+		110,
+		111,
+		108,
+		103,
+		103,
+		107,
+		106,
+		102,
+		99,
+		89,
+		84,
+		90,
+		98,
+		102,
+		99,
+		100,
+		100,
+		100,
+		102,
+		106,
+		103,
+		97,
+		85,
+		76,
+		75,
+		72,
+		67,
+		61,
+		55,
+		54,
+		59,
+		67,
+		66,
+		69,
+		72,
+		80,
+		93,
+		101,
+		100,
+		97,
+		96,
+		93,
+		88,
+		88,
+		89,
+		90,
+		84,
+		75,
+		69,
+		66,
+		69,
+		78,
+		93,
+		106,
+		112,
+		108,
+		103,
+		94,
+		89,
+		90,
+		94,
+		96,
+		94,
+		99,
+		109,
+		113,
+		108,
+		98,
+		89,
+		83,
+		80,
+		83,
+		93,
+		102,
+		104,
+		102,
+		96,
+		85,
+		76,
+		73,
+		78,
+		88,
+		92,
+		95,
+		93,
+		95,
+		97,
+		98,
+		97,
+		92,
+		90,
+		89,
+		89,
+		86,
+		91,
+		90,
+		84,
+		82,
+		85,
+		88,
+		87,
+		89,
+		92,
+		99,
+		105,
+		105,
+		98,
+		94,
+		95,
+		106,
+		114,
+		114,
+		104,
+		98,
+		104,
+		109,
+		109,
+		106,
+		104,
+		100,
+		98,
+		100,
+		105,
+		108,
+		108,
+		107,
+		108,
+		110,
+		104,
+		94,
+		83,
+		84,
+		88,
+		89,
+		85,
+		86,
+		93,
+		100,
+		102,
+		102,
+		104,
+		107,
+		106,
+		106,
+		106,
+		105,
+		105,
+		105,
+		100,
+		96,
+		94,
+		92,
+		91,
+		91,
+		95,
+		102,
+		109,
+		113,
+		113,
+		116,
+		119,
+		122,
+		123,
+		121,
+		121,
+		115,
+		106,
+		97,
+		98,
+		100,
+		102,
+		102,
+		103,
+		103,
+		106,
+		113,
+		118,
+		122,
+		123,
+		124,
+		124,
+		121,
+		111,
+		103,
+		98,
+		97,
+		94,
+		95,
+		95,
+		92,
+		89,
+		93,
+		96,
+		88,
+		82,
+		86,
+		89,
+		89,
+		91,
+		98,
+		99,
+		100,
+		106,
+		109,
+		109,
+		108,
+		104,
+		97,
+		95,
+		101,
+		103,
+		100,
+		102,
+		104,
+		102,
+		100,
+		93,
+		88,
+		90,
+		98,
+		102,
+		107,
+		113,
+		113,
+		106,
+		101,
+		96,
+		96,
+		101,
+		105,
+		102,
+		94,
+		89,
+		87,
+		90,
+		92,
+		93,
+		91,
+		91,
+		93,
+		92,
+		87,
+		87,
+		94,
+		103,
+		108,
+		108,
+		105,
+		97,
+		92,
+		92,
+		96,
+		100,
+		104,
+		102,
+		99,
+		98,
+		99,
+		93,
+		85,
+		82,
+		81,
+		86,
+		93,
+		101,
+		102,
+		98,
+		100,
+		101,
+		104,
+		113,
+		120,
+		110,
+		99,
+		100,
+		108,
+		118,
+		118,
+		113,
+		106,
+		105,
+		102,
+		97,
+		94,
+		96,
+		101,
+		103,
+		99,
+		95,
+		95,
+		99,
+		102,
+		105,
+		106,
+		104,
+		100,
+		95,
+		100,
+		103,
+		104,
+		105,
+		106,
+		99,
+		94,
+		92,
+		88,
+		87,
+		89,
+		95,
+		99,
+		100,
+		97,
+		99,
+		101,
+		101,
+		100,
+		97,
+		93,
+		93,
+		94,
+		99,
+		111,
+		121,
+		122,
+		118,
+		111,
+		104,
+		100,
+		95,
+		94,
+		98,
+		101,
+		105,
+		107,
+		102,
+		97,
+		98,
+		98,
+		94,
+		95,
+		99,
+		91,
+		77,
+		68,
+		62,
+		60,
+		57,
+		55,
+		52,
+		53,
+		54,
+		55,
+		52,
+		50,
+		53,
+		58,
+		77,
+		93,
+		98,
+		99,
+		100,
+		101,
+		100,
+		101,
+		100,
+		100,
+		99,
+		96,
+		92,
+		93,
+		94,
+		96,
+		92,
+		84,
+		80,
+		78,
+		82,
+		89,
+		94,
+		97,
+		101,
+		104,
+		102,
+		105,
+		104,
+		104,
+		99,
+		102,
+		106,
+		111,
+		108,
+		105,
+		104,
+		109,
+		116,
+		113,
+		114,
+		118,
+		120,
+		112,
+		102,
+		92,
+		87,
+		83,
+		79,
+		74,
+		71,
+		75,
+		82,
+		87,
+		91,
+		96,
+		105,
+		106,
+		107,
+		105,
+		103,
+		99,
+		94,
+		88,
+		81,
+		77,
+		75,
+		75,
+		76,
+		81,
+		85,
+		84,
+		82,
+		84,
+		85,
+		86,
+		96,
+		107,
+		114,
+		109,
+		102,
+		99,
+		97,
+		93,
+		90,
+		92,
+		97,
+		102,
+		101,
+		102,
+		104,
+		107,
+		110,
+		113,
+		119,
+		116,
+		107,
+		101,
+		102,
+		106,
+		110,
+		110,
+		110,
+		109,
+		108,
+		105,
+		102,
+		101,
+		100,
+		100,
+		103,
+		109,
+		119,
+		123,
+		122,
+		115,
+		104,
+		101,
+		105,
+		107,
+		104,
+		94,
+		84,
+		76,
+		75,
+		73,
+		65,
+		55,
+		59,
+		76,
+		86,
+		85,
+		82,
+		88,
+		97,
+		104,
+		109,
+		108,
+		102,
+		91,
+		82,
+		79,
+		83,
+		88,
+		92,
+		97,
+		101,
+		101,
+		105,
+		107,
+		108,
+		101,
+		93,
+		89,
+		93,
+		102,
+		109,
+		112,
+		118,
+		117,
+		105,
+		97,
+		97,
+		97,
+		101,
+		102,
+		102,
+		98,
+		96,
+		99,
+		104,
+		106,
+		106,
+		108,
+		109,
+		107,
+		103,
+		99,
+		96,
+		99,
+		99,
+		92,
+		84,
+		82,
+		88,
+		92,
+		94,
+		95,
+		93,
+		88,
+		86,
+		87,
+		90,
+		91,
+		89,
+		86,
+		81,
+		79,
+		82,
+		88,
+		93,
+		95,
+		97,
+		100,
+		101,
+		102,
+		101,
+		101,
+		102,
+		102,
+		99,
+		94,
+		90,
+		92,
+		95,
+		94,
+		87,
+		84,
+		91,
+		103,
+		108,
+		108,
+		108,
+		113,
+		115,
+		109,
+		105,
+		106,
+		104,
+		101,
+		103,
+		105,
+		103,
+		102,
+		103,
+		104,
+		108,
+		112,
+		110,
+		103,
+		98,
+		98,
+		100,
+		104,
+		104,
+		107,
+		108,
+		106,
+		102,
+		104,
+		106,
+		106,
+		107,
+		109,
+		109,
+		105,
+		99,
+		94,
+		93,
+		96,
+		97,
+		98,
+		95,
+		99,
+		106,
+		113,
+		119,
+		121,
+		115,
+		108,
+		109,
+		111,
+		111,
+		111,
+		110,
+		110,
+		111,
+		111,
+		108,
+		107,
+		107,
+		103,
+		100,
+		104,
+		109,
+		110,
+		108,
+		106,
+		107,
+		108,
+		104,
+		101,
+		105,
+		112,
+		114,
+		113,
+		115,
+		115,
+		110,
+		107,
+		107,
+		110,
+		109,
+		104,
+		93,
+		85,
+		82,
+		83,
+		89,
+		92,
+		95,
+		103,
+		109,
+		105,
+		94,
+		88,
+		88,
+		93,
+		101,
+		104,
+		105,
+		102,
+		101,
+		103,
+		100,
+		93,
+		84,
+		85,
+		89,
+		92,
+		92,
+		90,
+		89,
+		90,
+		91,
+		88,
+		84,
+		87,
+		94,
+		100,
+		104,
+		107,
+		102,
+		99,
+		96,
+		89,
+		81,
+		79,
+		80,
+		86,
+		92,
+		95,
+		98,
+		101,
+		102,
+		104,
+		106,
+		105,
+		105,
+		103,
+		104,
+		109,
+		108,
+		103,
+		102,
+		102,
+		101,
+		103,
+		98,
+		95,
+		94,
+		97,
+		97,
+		97,
+		94,
+		94,
+		93,
+		95,
+		95,
+		92,
+		87,
+		86,
+		90,
+		99,
+		102,
+		103,
+		101,
+		95,
+		91,
+		92,
+		92,
+		92,
+		96,
+		100,
+		102,
+		108,
+		117,
+		118,
+		111,
+		107,
+		105,
+		101,
+		98,
+		100,
+		97,
+		90,
+		85,
+		85,
+		85,
+		83,
+		84,
+		91,
+		98,
+		104,
+		107,
+		106,
+		104,
+		107,
+		107,
+		101,
+		94,
+		91,
+		90,
+		88,
+		87,
+		93,
+		100,
+		104,
+		102,
+		102,
+		96,
+		88,
+		78,
+		70,
+		67,
+		63,
+		59,
+		59,
+		57,
+		55,
+		54,
+		60,
+		68,
+		75,
+		83,
+		96,
+		105,
+		110,
+		116,
+		119,
+		114,
+		106,
+		101,
+		97,
+		93,
+		87,
+		88,
+		94,
+		99,
+		102,
+		103,
+		105,
+		105,
+		104,
+		106,
+		104,
+		99,
+		98,
+		104,
+		118,
+		129,
+		127,
+		116,
+		104,
+		102,
+		105,
+		109,
+		113,
+		115,
+		115,
+		110,
+		109,
+		109,
+		106,
+		101,
+		95,
+		86,
+		84,
+		88,
+		92,
+		91,
+		86,
+		83,
+		85,
+		88,
+		89,
+		90,
+		93,
+		98,
+		103,
+		103,
+		103,
+		104,
+		102,
+		96,
+		89,
+		84,
+		85,
+		89,
+		94,
+		97,
+		102,
+		103,
+		103,
+		106,
+		112,
+		108,
+		85,
+		62,
+		50,
+		51,
+		56,
+		64,
+		68,
+		72,
+		73,
+		76,
+		84,
+		94,
+		101,
+		99,
+		96,
+		96,
+		97,
+		96,
+		91,
+		88,
+		83,
+		81,
+		82,
+		85,
+		89,
+		93,
+		95,
+		95,
+		93,
+		95,
+		97,
+		101,
+		99,
+		96,
+		90,
+		81,
+		73,
+		76,
+		89,
+		100,
+		100,
+		103,
+		106,
+		109,
+		106,
+		102,
+		99,
+		99,
+		102,
+		103,
+		103,
+		100,
+		95,
+		84,
+		78,
+		79,
+		84,
+		89,
+		93,
+		92,
+		92,
+		95,
+		100,
+		106,
+		109,
+		109,
+		103,
+		97,
+		95,
+		97,
+		102,
+		101,
+		100,
+		100,
+		103,
+		106,
+		108,
+		109,
+		110,
+		110,
+		110,
+		108,
+		101,
+		97,
+		92,
+		88,
+		85,
+		85,
+		85,
+		89,
+		92,
+		93,
+		93,
+		94,
+		93,
+		95,
+		95,
+		96,
+		93,
+		93,
+		93,
+		93,
+		80,
+		88,
+		87,
+		95,
+		104,
+		110,
+		108,
+		100,
+		96,
+		101,
+		118,
+		132,
+		117,
+		99,
+		88,
+		86,
+		86,
+		91,
+		96,
+		98,
+		101,
+		102,
+		100,
+		96,
+		91,
+		90,
+		91,
+		94,
+		96,
+		97,
+		94,
+		93,
+		93,
+		94,
+		95,
+		94,
+		94,
+		90,
+		88,
+		96,
+		103,
+		102,
+		97,
+		95,
+		98,
+		101,
+		106,
+		108,
+		100,
+		90,
+		83,
+		81,
+		81,
+		62,
+		66,
+		81,
+		77,
+		77,
+		85,
+		97,
+		108,
+		109,
+		108,
+		108,
+		106,
+		102,
+		98,
+		94,
+		93,
+		92,
+		93,
+		93,
+		90,
+		87,
+		85,
+		86,
+		86,
+		88,
+		90,
+		88,
+		87,
+		88,
+		93,
+		107,
+		119,
+		125,
+		119,
+		110,
+		101,
+		101,
+		102,
+		102,
+		98,
+		92,
+		90,
+		87,
+		80,
+		82,
+		90,
+		93,
+		99,
+		108,
+		107,
+		97,
+		94,
+		94,
+		94,
+		71,
+		78,
+		74,
+		74,
+		74,
+		74,
+		71,
+		73,
+		75,
+		81,
+		93,
+		107,
+		111,
+		108,
+		107
+	],
+	"hr_item_count" : 1809,
+	"limit_mins" : 0,
+	"max_hr_value" : 165,
+	"minute" : 21,
+	"month" : 4,
+	"packet_count" : 117,
+	"range1" : 0,
+	"range2" : 0,
+	"range3" : 0,
+	"range4" : 0,
+	"range5" : 0,
+	"second" : 20,
+	"step" : 15445,
+	"type" : 52,
+	"year" : 21
+}
+
+P    [2021-04-04 18:50:57.147+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 09 06 00 01 01 )
+P    [2021-04-04 18:50:57.148+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:50:57.149+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 09 06 00 01 01 
+P    [2021-04-04 18:50:58.651+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 09 06 00 01 01 )
+P    [2021-04-04 18:50:58.652+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 00 01 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:50:59.454+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 09 06 01 00 )
+P    [2021-04-04 18:50:59.455+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:50:59.455+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 09 06 01 00 
+P    [2021-04-04 18:50:59.672+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:50:59.674+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:51:00.542+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 09 06 01 00 )
+P    [2021-04-04 18:51:00.543+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:51:00.570+0200]        [IDO_CMD             ]    [SYNC_DATA] saveActivityData, jsonData={
+	"aerobic_mins" : 0,
+	"avg_hr_value" : 0,
+	"burn_fat_mins" : 0,
+	"calories" : 0,
+	"data_length" : 0,
+	"day" : 0,
+	"distance" : 0,
+	"durations" : 0,
+	"hour" : 0,
+	"hr_data_interval_minute" : 0,
+	"hr_data_vlaue" : null,
+	"hr_item_count" : 0,
+	"limit_mins" : 0,
+	"max_hr_value" : 0,
+	"minute" : 0,
+	"month" : 0,
+	"packet_count" : 0,
+	"range1" : 0,
+	"range2" : 0,
+	"range3" : 0,
+	"range4" : 0,
+	"range5" : 0,
+	"second" : 0,
+	"step" : 0,
+	"type" : 0,
+	"year" : 0
+}
+
+E    [2021-04-04 18:51:00.571+0200]        [IDO_CMD             ]    [SYNC_DATA] saveActivityData, year is 0
+P    [2021-04-04 18:51:01.045+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 09 06 00 01 01 )
+P    [2021-04-04 18:51:01.045+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:51:01.045+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 09 06 00 01 01 
+P    [2021-04-04 18:51:02.433+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 09 06 00 01 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+P    [2021-04-04 18:51:02.435+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 09 06 00 01 01 )
+P    [2021-04-04 18:51:02.448+0200]        [IDO_CMD             ]    [SYNC_DATA] sync activity data success!
+P    [2021-04-04 18:51:02.457+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncActivityTask] onSuccess
+P    [2021-04-04 18:51:02.460+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] totalProgress = 100
+P    [2021-04-04 18:51:02.461+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncActivityTask] finished!
+P    [2021-04-04 18:51:02.461+0200]        [SYNC_ALL_PROGRESS_LOG]    [SyncAllDataManager] synced success.
+P    [2021-04-04 18:51:02.492+0200]        [IDO_CMD             ]    [SET_PARA] start to setTime ,SystemTime{year=2021, monuth=4, day=4, hour=18, minute=51, second=2, week=6, time_zone=2}
+P    [2021-04-04 18:51:02.493+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 03 01 e5 07 04 04 12 33 02 06 00 00 00 00 02 00 )
+P    [2021-04-04 18:51:02.493+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:51:02.493+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 03 01 e5 07 04 04 12 33 02 06 00 00 00 00 02 00 
+P    [2021-04-04 18:51:02.496+0200]        [IDO_CMD             ]    [SET_PARA] start to setGoal ,Goal{sport_step=7500, sleep_time=480}
+P    [2021-04-04 18:51:02.561+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:51:02.629+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:51:02.633+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:51:02.638+0200]        [IDO_CMD             ]    [GET_INFO] start to getDeviceSummarySoftVersionInfo...
+P    [2021-04-04 18:51:02.744+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 03 01 e5 07 04 04 12 33 02 06 00 00 00 00 02 00 )
+P    [2021-04-04 18:51:02.744+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 03 01 
+P    [2021-04-04 18:51:02.744+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 03 03 00 4c 1d 00 00 00 00 )
+P    [2021-04-04 18:51:02.744+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:51:02.744+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 03 03 00 4c 1d 00 00 00 00 
+P    [2021-04-04 18:51:03.018+0200]        [IDO_CMD             ]    [SET_PARA] start to setUnit ,Units{dist=1, weight=1, temp=1, stride=74, language=5, timeMode=1, strideRun=93, strideGPSCal=0, weekStartDate=1}
+P    [2021-04-04 18:51:03.060+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 03 03 00 4c 1d 00 00 00 00 )
+P    [2021-04-04 18:51:03.061+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 03 03 
+P    [2021-04-04 18:51:03.062+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 0a 01 01 0f 0f 07 25 00 00 01 12 07 01 0d 02 00 00 00 )
+P    [2021-04-04 18:51:03.065+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:51:03.065+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 0a 01 01 0f 0f 07 25 00 00 01 12 07 01 0d 02 00 00 00 
+P    [2021-04-04 18:51:03.085+0200]        [IDO_DATA            ]    [saveGoal],Goal{sport_step=7500, sleep_time=480}
+P    [2021-04-04 18:51:03.379+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 0a 01 01 0f 0f 07 25 00 00 01 12 07 01 0d 02 00 00 00 )
+P    [2021-04-04 18:51:03.381+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 0a 01 
+P    [2021-04-04 18:51:03.382+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 02 11 )
+P    [2021-04-04 18:51:03.383+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:51:03.383+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 02 11 
+P    [2021-04-04 18:51:03.847+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 02 11 )
+P    [2021-04-04 18:51:03.848+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 02 11 0f 19 12 0c 21 01 
+P    [2021-04-04 18:51:03.848+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 03 11 01 01 01 4a 05 01 5d 00 01 )
+P    [2021-04-04 18:51:03.849+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:51:03.849+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 03 11 01 01 01 4a 05 01 5d 00 01 
+P    [2021-04-04 18:51:04.162+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 03 11 01 01 01 4a 05 01 5d 00 01 )
+P    [2021-04-04 18:51:04.163+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 03 11 
+P    [2021-04-04 18:51:04.165+0200]        [IDO_DATA            ]    [saveUnits],Units{dist=1, weight=1, temp=1, stride=74, language=5, timeMode=1, strideRun=93, strideGPSCal=0, weekStartDate=1}
+P    [2021-04-04 18:51:04.675+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:51:04.676+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:51:04.677+0200]        [IDO_CMD             ]    [GET_INFO] start to getLiveData...
+P    [2021-04-04 18:51:04.677+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 02 a0 )
+P    [2021-04-04 18:51:04.678+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:51:04.678+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 02 a0 
+P    [2021-04-04 18:51:06.057+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 02 a0 )
+P    [2021-04-04 18:51:06.060+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 02 a0 a3 54 00 00 da 04 00 00 a1 3e 00 00 66 2b 00 00 00 
+P    [2021-04-04 18:51:09.678+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:51:09.680+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:51:09.682+0200]        [IDO_CMD             ]    [GET_INFO] start to getLiveData...
+P    [2021-04-04 18:51:09.683+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 02 a0 )
+P    [2021-04-04 18:51:09.685+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:51:09.686+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 02 a0 
+P    [2021-04-04 18:51:11.096+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 02 a0 )
+P    [2021-04-04 18:51:11.099+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 02 a0 a3 54 00 00 da 04 00 00 a1 3e 00 00 66 2b 00 00 00 
+P    [2021-04-04 18:51:14.679+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:51:14.680+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:51:14.681+0200]        [IDO_CMD             ]    [GET_INFO] start to getLiveData...
+P    [2021-04-04 18:51:14.682+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 02 a0 )
+P    [2021-04-04 18:51:14.683+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:51:14.683+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 02 a0 
+P    [2021-04-04 18:51:16.134+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 02 a0 )
+P    [2021-04-04 18:51:16.135+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 02 a0 a3 54 00 00 da 04 00 00 a1 3e 00 00 66 2b 00 00 00 
+P    [2021-04-04 18:51:19.681+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:51:19.682+0200]        [DeviceSharedPreferences]    getIsBind,true,sp_name = bind_info_E7:40:B8:61:56:5E
+P    [2021-04-04 18:51:19.683+0200]        [IDO_CMD             ]    [GET_INFO] start to getLiveData...
+P    [2021-04-04 18:51:19.684+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData( 02 a0 )
+P    [2021-04-04 18:51:19.685+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] addCmdData que size = 1
+P    [2021-04-04 18:51:19.685+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] send => 02 a0 
+P    [2021-04-04 18:51:21.172+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] onDeviceResponseOnLastSend( 02 a0 )
+P    [2021-04-04 18:51:21.172+0200]        [BASE_CONNECT_LOG    ]    [BytesDataConnect] receive <= 02 a0 a3 54 00 00 da 04 00 00 a1 3e 00 00 66 2b 00 00 00 
