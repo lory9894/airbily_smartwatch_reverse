@@ -2,11 +2,11 @@ attende notifica sull'handler 0x0015 e scrive sull'handler 0x0018.usando gatttoo
 i dati sono in little endian, quindi e5 07 va letto 07 e5 (ma lo si può trasformare in array di byte e leggerlo come little endian)
 
 
-2021-04-04 18:50:43,191394 sono gli healthSportData (codice di richiesta 0803010000)
+2021-04-04 20:50:43,191394 sono gli healthSportData (codice di richiesta 0803010000)
 0803 (header) 01 (numero messaggio) 0c (dimensione)  e507 (07e5 = 2021) 04 (mese) 04 (giorno) [00 0f 4c 20 00 00 00] (proprio non so, 0f ) [fc b4 00 20] (non lo so ma ieri erano uguali, potrebbe essere GMT 02)
 0803 02 (messaggio 2) 12 (dim) a3 54 00 00 (passi totali)da 04 00 00(calorie) a1 3e 00 00 (distanza percorsa oggi [m]) 66 2b 00 00 (durata attività fisica totale oggi)
 
-2021-04-04 18:50:43,731243 dati sul sonno.
+2021-04-04 20:50:43,731243 dati sul sonno.
 richiesta 0804010000, sempre su 0x0018
 0804 (header e tipo di dato 04=sleep) 01 (n° messaggio) 0c (len) e5070404 (sempre data) 07 (ora di sveglia) 38 (minuti di sveglia) f8 01 (minuti di sonno) 13 04(boh) 00 00 fc b4 00 20 (solito footer sconosciuto)
 
@@ -18,7 +18,7 @@ seguono tutte le fasi di sonno (in questo caso 19) così strutturate: [1,2,3] (s
 
 ci sono quindi fasi/8 messaggi, i messaggi sono di max lunghezza 32 byte, quindi 16 coppie esadecimali quindi 8 coppie tipo/durata. infine c'è il solito messaggio di conclusa comunicazione 08 ee 03
 
-2021-04-04 18:50:44.046081 dati attività fisica
+2021-04-04 20:50:44.046081 dati attività fisica
 richiesta 0807010000
 nel primo pacchetto vengono passati una marea di dati inutili (i threshold per considerare un certo battito warmap, aerobico, etc...)
 0807010ce5070404 (header, len, data) 0500 (startTime, che significa?) 46(silentHeart, che significa?) a8001c0000fcb40020 (il resto non lo so)
